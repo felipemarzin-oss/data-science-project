@@ -8,7 +8,7 @@
 - Réponses manquantes (colonne : echantillon, base ...)
 - Différences de représentativité entre pays (colonne population (catastrophique))
 
-** A noter :**
+A noter :
 Le fichier fait plus de 146 000 lignes, a voir si c'est trop ou pas.
 
 
