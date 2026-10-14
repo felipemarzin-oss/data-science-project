@@ -39,3 +39,26 @@ Peut-on prédire si un accident corporel entraîne au moins un décès ou une ho
 Grosse jointure 
 
 **maybe un peu dur // conséquant mais vraiment interessant**
+
+
+
+## Taxis de New York 
+on connait ce dataset vu qu'on le fait en Hadoop 
+
+***Question*** : prévoir le nombre de prises en charge par quartier et par heure
+- beaucoup plus de ligne
+
+***source***: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+==> Comporte : les dates et heures de départ et d’arrivée, les zones, les distances, le nombre de passagers, les montants et les moyens de paiement etc
+par mois (Parquet) 
+
+Volume : 41 millions de courses en 2024
+l'idéal : commencer avec 2-3 mois puis après essayer 6-7 mois etc 
+
+beaucoup de jointure, feature etc 
+très très gros volume 
+
+
+
+
