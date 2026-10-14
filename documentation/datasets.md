@@ -47,6 +47,7 @@ on connait ce dataset vu qu'on le fait en Hadoop
 
 ***Question*** : prévoir le nombre de prises en charge par quartier et par heure
 - beaucoup plus de ligne
+- valeur manquantes 
 
 ***source***: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
