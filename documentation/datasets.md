@@ -9,7 +9,6 @@
 Peut-on prédire l’adoption d’un comportement écologique à partir du profil d’une personne et de ses opinions sur le climat ?
 
 - volume : 146 275 lignes (agrégée) 
-
 - valeur manquante
 - harmoniser les réponses
 - prendre en compte les pondérations et les différents pays
@@ -18,9 +17,6 @@ Peut-on prédire l’adoption d’un comportement écologique à partir du profi
 **Types d'erreurs :**
 - Réponses manquantes (colonne : echantillon, base ...)
 - Différences de représentativité entre pays (colonne population (catastrophique))
-
-A noter :
-Le fichier fait plus de 146 000 lignes, a voir si c'est trop ou pas.
 
 
 ==> Sujet intéressant et volume ok, 
