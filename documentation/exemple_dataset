@@ -1,0 +1,24 @@
+Autre idée de dataset : 
+sur le site : https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2024
+
+Le sujet : 
+
+Contient les accidents corporels enregistrés par la police et la gendarmerie. 
+==> Comporte des informations sur l’accident, les lieux, les véhicules et les personnes impliquées etc 
+Elle décrit aussi la gravité parmi les accidents enregistrés 
+
+on peut se poser comme question :
+Peut-on prédire la gravité des blessures d’un usager à partir de son profil, du véhicule et du contexte de l’accident ?
+
+- enorme volume 
+- valeur manquantes 
+- des colonnes presque vides 
+- infos incompletes
+- clé non unique
+
+
+Grosse jointure 
+
+## maybe un peu dur // conséquant 
+
+
