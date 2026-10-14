@@ -2,7 +2,18 @@
 
 **Source :** https://www.data.gouv.fr/datasets/enquete-dopinion-internationale-sur-le-changement-climatique-obscop-2025
 
-**Contexte :** Enquête internationale sur les perceptions, les préoccupations et les comportements des populations face au changement climatique.
+**Contexte :** 
+==> Enquête EDF/Ipsos dans 30 pays sur les préoccupations, les perceptions et les comportements face au changement climatique.
+
+***Question***  :
+Peut-on prédire l’adoption d’un comportement écologique à partir du profil d’une personne et de ses opinions sur le climat ?
+
+- volume : 146 275 lignes (agrégée) 
+
+- valeur manquante
+- harmoniser les réponses
+- prendre en compte les pondérations et les différents pays
+
 
 **Types d'erreurs :**
 - Réponses manquantes (colonne : echantillon, base ...)
@@ -12,6 +23,8 @@ A noter :
 Le fichier fait plus de 146 000 lignes, a voir si c'est trop ou pas.
 
 
+==> Sujet intéressant et volume ok, 
+mais pour entraîner un modèle individuel, il faut utiliser la base répondant par répondant (interroger ligne par ligne)
 
 
 ## Accidents de la route en France (2005–2024)
@@ -74,13 +87,10 @@ Peut-on prédire si un logement est classé F ou G à partir de ses caractérist
 
 - Volume : 15,8 millions
 - Plusieurs diagnostics peuvent concerner le même logement.
-- choisir une période
-
 - valeur manquante
 - assembler les exports
 - colonne pas trop renseignées
-- valeur inco 
-**Problèmes à vérifier :**
+- valeur incohérente 
 
 **Attention :** retirer des variables explicatives les consommations, émissions et autres résultats qui donnent directement la classe énergétique
 =>le modèle a déjà accès à la réponse
