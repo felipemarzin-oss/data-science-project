@@ -14,7 +14,6 @@ Le fichier fait plus de 146 000 lignes, a voir si c'est trop ou pas.
 
 
 
-
 ## Accidents de la route en France (2005–2024)
 
 **Source :** https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere
@@ -61,5 +60,29 @@ beaucoup de jointure, feature etc
 très très gros volume 
 
 
+## Logements énergivores en France — DPE
 
+**Source :** https://data.ademe.fr/datasets/dpe03existant
+**Fichiers :** une table principale, accessible par API ou export. On peut extraire plusieurs départements séparément, puis assembler les fichiers
 
+==> Comporte des informations sur les logements : surface, maison/appartement, période de construction, chauffage, énergie utilisée, isolation, fenêtres, localisation, etc
+
+Chaque diagno donne une classe énergétique de A à G, l objectif est d’identifier les logements classés F ou G ==> les plus énergivores.
+
+**Question :**
+Peut-on prédire si un logement est classé F ou G à partir de ses caractéristiques et de son système de chauffage ?
+
+- Volume : 15,8 millions
+- Plusieurs diagnostics peuvent concerner le même logement.
+- choisir une période
+
+- valeur manquante
+- assembler les exports
+- colonne pas trop renseignées
+- valeur inco 
+**Problèmes à vérifier :**
+
+**Attention :** retirer des variables explicatives les consommations, émissions et autres résultats qui donnent directement la classe énergétique
+=>le modèle a déjà accès à la réponse
+
+Pas top si on doit enlever la réponse 
