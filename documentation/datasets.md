@@ -38,5 +38,4 @@ Peut-on prédire si un accident corporel entraîne au moins un décès ou une ho
 **types d'erreurs (à voir) :**
 Grosse jointure 
 
-
-## maybe un peu dur // conséquant mais interessant 
+**maybe un peu dur // conséquant mais vraiment interessant**
