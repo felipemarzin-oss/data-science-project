@@ -73,7 +73,7 @@ beaucoup de jointure, feature etc
 très très gros volume 
 
 
-## Logements énergivores en France — DPE
+## Logements F/G en France — DPE
 
 **Source :** https://data.ademe.fr/datasets/dpe03existant
 **Fichiers :** une table principale, accessible par API ou export. On peut extraire plusieurs départements séparément, puis assembler les fichiers
