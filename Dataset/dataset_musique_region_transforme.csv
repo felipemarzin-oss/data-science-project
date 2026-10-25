@@ -1,0 +1,1987 @@
+variete_francaise,pop_rock,rap_hip_hop,classique,jazz,dance,electronique,metal,rnb,soul,reggae,musiques_du_monde,autres_genres,region,region_group,total_genres
+1,0,0,0,1,0,0,0,0,1,0,0,0,Occitanie,SUD,3
+0,1,0,0,1,0,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,3
+1,1,1,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,4
+1,0,0,1,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,0,0,1,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,0,1,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,1,0,1,1,1,0,0,1,1,1,1,0,Centre-Val de Loire,CENTRE,9
+1,1,1,1,1,1,1,0,1,1,1,1,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,12
+0,0,0,0,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,1,0,0,0,0,0,0,0,1,0,0,0,Occitanie,SUD,2
+1,1,0,0,0,1,0,0,0,0,0,1,0,Grand Est,Grand Est,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,1,0,0,0,0,1,1,0,0,1,0,Occitanie,SUD,5
+1,1,1,0,0,0,0,0,0,1,0,0,1,Île-de-France,Île-de-France,5
+1,0,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,0,0,1,1,0,0,0,0,1,0,0,0,Bretagne,NORD-OUEST,4
+1,1,0,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,0,0,1,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,3
+0,1,0,0,0,0,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,0,1,0,0,0,0,0,0,0,1,1,Centre-Val de Loire,CENTRE,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+0,0,0,0,0,1,0,0,1,0,0,0,1,Île-de-France,Île-de-France,3
+1,1,1,0,0,1,1,1,1,1,0,1,0,Grand Est,Grand Est,9
+1,1,0,1,1,0,1,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+1,1,1,0,0,1,1,0,0,0,0,1,0,Île-de-France,Île-de-France,6
+0,0,1,0,1,1,0,0,1,1,1,1,0,Île-de-France,Île-de-France,7
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,0,0,0,1,0,0,1,1,1,0,Pays de la Loire,CENTRE,6
+1,0,1,0,0,1,0,0,1,0,1,0,0,Île-de-France,Île-de-France,5
+0,0,0,0,0,1,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,2
+0,0,0,0,1,1,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,1,0,0,0,0,1,0,0,0,Normandie,NORD-OUEST,4
+1,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,1,1,0,0,0,1,1,0,Pays de la Loire,CENTRE,6
+1,1,0,0,0,0,0,0,0,0,1,0,0,Pays de la Loire,CENTRE,3
+1,1,1,1,1,1,1,1,1,1,1,1,1,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,13
+0,1,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,1,1,0,0,1,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,1,0,0,0,0,0,1,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,3
+1,0,0,1,0,0,1,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,1,1,1,0,1,1,1,1,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,8
+1,1,0,0,0,1,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,4
+1,1,0,1,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,1,0,1,1,0,1,1,0,0,0,0,Grand Est,Grand Est,7
+1,1,0,0,1,1,0,0,1,1,0,1,0,Grand Est,Grand Est,7
+0,0,0,0,0,0,0,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,0,0,0,0,0,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,1
+1,1,1,0,0,0,0,0,0,0,0,1,0,Occitanie,SUD,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,1,1,0,0,1,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,1,0,1,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+0,1,1,1,0,0,0,1,1,1,1,0,0,Île-de-France,Île-de-France,7
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+0,0,0,0,0,0,1,0,0,0,0,0,1,Hauts-de-France,NORD-OUEST,2
+0,1,0,1,0,0,0,0,0,1,0,1,0,Île-de-France,Île-de-France,4
+1,1,1,0,1,1,0,0,1,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,8
+1,0,0,1,0,0,0,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,0,1,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,0,0,0,0,0,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,1,1,0,0,0,1,0,1,0,Occitanie,SUD,6
+1,1,0,0,0,0,0,0,1,1,0,1,0,Île-de-France,Île-de-France,5
+0,0,0,0,0,1,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,0,1,0,0,0,1,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,0,0,1,1,0,0,0,0,0,1,1,0,Normandie,NORD-OUEST,5
+0,1,1,0,0,0,0,0,1,1,0,0,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+0,0,0,1,0,0,0,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,5
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,2
+0,1,0,0,0,0,0,1,0,1,0,0,0,Grand Est,Grand Est,3
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,0,0,0,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,0,1,0,1,0,0,0,0,0,1,1,1,Île-de-France,Île-de-France,6
+0,1,1,0,1,0,1,1,0,0,0,1,0,Grand Est,Grand Est,6
+0,0,0,1,0,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,2
+0,0,0,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,1,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,1,0,0,0,0,0,1,1,1,0,0,Pays de la Loire,CENTRE,6
+0,1,1,0,0,0,0,1,1,0,0,1,0,Pays de la Loire,CENTRE,5
+0,0,1,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,1,0,1,0,1,1,1,0,0,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,7
+1,1,0,1,1,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,4
+1,1,0,0,0,0,0,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,0,1,0,0,0,0,0,1,0,0,0,0,Normandie,NORD-OUEST,3
+1,0,0,0,0,0,0,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,1,0,0,1,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,0,0,0,1,0,1,0,1,1,0,Occitanie,SUD,7
+1,1,1,0,1,0,1,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,6
+1,0,0,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+0,1,0,0,0,0,0,1,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,1,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,0,0,0,0,0,0,0,1,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,0,0,0,0,0,0,0,0,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,2
+0,0,0,0,0,0,1,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,1,0,0,1,1,1,1,0,1,0,0,Occitanie,SUD,8
+0,0,0,1,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+0,0,1,0,1,0,1,0,0,1,0,0,0,Bretagne,NORD-OUEST,4
+1,0,0,1,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,1,1,1,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,4
+1,1,1,0,0,0,1,0,0,0,0,0,0,Bretagne,NORD-OUEST,4
+0,1,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,0,0,0,1,0,0,0,0,1,0,0,Grand Est,Grand Est,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,1,0,0,0,1,0,0,1,1,0,0,0,Île-de-France,Île-de-France,4
+1,1,0,0,0,0,0,0,0,0,0,0,1,Pays de la Loire,CENTRE,3
+1,1,0,0,0,1,1,0,1,0,1,0,0,Centre-Val de Loire,CENTRE,6
+1,1,0,0,1,0,0,0,0,0,0,1,0,Grand Est,Grand Est,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,1,0,0,1,1,0,1,1,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,8
+1,1,1,0,0,0,0,1,1,1,1,0,0,Île-de-France,Île-de-France,7
+0,0,1,1,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,3
+0,1,0,0,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,1,0,0,1,1,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,2
+1,1,1,0,0,1,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,1,0,1,1,0,0,0,0,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,1,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+0,0,0,0,1,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,0,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,1,0,0,0,0,1,1,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,7
+0,0,0,1,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+0,0,1,0,0,0,1,0,1,0,0,0,0,Occitanie,SUD,3
+0,0,1,0,1,0,0,0,1,1,1,1,0,Provence-Alpes-Côte d'Azur,SUD,6
+0,0,1,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+0,0,1,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,1,0,0,1,1,0,1,1,0,0,0,Hauts-de-France,NORD-OUEST,7
+1,1,0,1,0,0,0,0,0,0,0,0,1,Grand Est,Grand Est,4
+1,1,0,1,0,0,0,1,0,0,0,1,0,Occitanie,SUD,5
+1,1,0,0,0,1,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,1,0,0,0,0,0,0,0,0,0,1,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,0,0,1,1,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,1,0,0,0,0,0,1,1,0,0,0,Normandie,NORD-OUEST,5
+1,0,1,0,0,0,0,1,0,0,0,1,0,Hauts-de-France,NORD-OUEST,4
+1,1,0,0,0,1,0,0,1,1,0,0,0,Bretagne,NORD-OUEST,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,0,0,0,0,1,1,0,0,0,0,0,0,Occitanie,SUD,2
+0,0,0,0,0,0,0,0,0,0,1,0,0,Normandie,NORD-OUEST,1
+0,0,1,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,0,1,1,0,0,1,0,0,0,1,1,Hauts-de-France,NORD-OUEST,7
+0,0,0,0,0,0,1,0,1,0,0,1,0,Grand Est,Grand Est,3
+0,0,0,0,0,0,0,0,0,1,1,1,0,Grand Est,Grand Est,3
+1,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,0,0,0,0,0,1,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+0,1,0,0,0,1,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,1,1,0,0,1,1,0,1,0,1,0,0,Île-de-France,Île-de-France,6
+1,0,0,0,0,0,0,0,1,0,0,0,0,Normandie,NORD-OUEST,2
+1,1,1,0,0,1,0,0,1,1,1,0,0,Bourgogne-Franche-Comté,CENTRE,7
+0,0,1,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,0,0,0,0,0,0,0,0,0,0,0,1,Normandie,NORD-OUEST,2
+1,1,0,1,0,0,0,0,1,0,0,1,0,Grand Est,Grand Est,5
+1,0,0,1,1,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,4
+0,0,1,0,0,0,1,0,0,0,0,0,1,Hauts-de-France,NORD-OUEST,3
+0,1,0,0,0,0,1,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,1,0,1,0,0,0,0,0,0,0,Grand Est,Grand Est,3
+0,1,1,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,0,0,0,0,0,0,0,0,0,0,0,1,Bretagne,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,1,0,1,1,0,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,5
+1,0,0,1,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,2
+1,1,0,0,1,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,0,0,1,1,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,0,0,0,1,1,0,1,0,0,0,0,Île-de-France,Île-de-France,5
+1,1,0,0,0,0,0,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,1,0,0,0,0,0,0,1,0,1,0,Hauts-de-France,NORD-OUEST,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,1,0,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,1,0,0,1,0,0,1,1,1,0,0,Hauts-de-France,NORD-OUEST,6
+0,1,0,0,0,1,1,1,0,0,0,0,1,Pays de la Loire,CENTRE,5
+0,1,0,0,0,0,1,0,0,0,0,0,1,Île-de-France,Île-de-France,3
+0,0,0,0,0,0,0,0,0,0,0,0,1,Hauts-de-France,NORD-OUEST,1
+1,1,0,0,0,1,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,4
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,1,1,1,1,0,1,1,1,1,0,Île-de-France,Île-de-France,11
+1,1,1,0,0,1,1,0,1,0,0,1,0,Hauts-de-France,NORD-OUEST,7
+1,0,0,0,0,1,1,0,0,0,0,0,0,Occitanie,SUD,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+1,1,0,0,0,1,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,4
+0,1,0,0,0,0,0,0,1,0,1,0,0,Centre-Val de Loire,CENTRE,3
+1,1,0,0,0,1,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,0,0,1,1,0,0,0,0,1,1,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,1,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,4
+1,1,0,1,0,1,1,1,0,0,0,0,0,Grand Est,Grand Est,6
+0,1,0,0,0,0,0,1,0,0,0,0,0,Bretagne,NORD-OUEST,2
+1,1,1,1,1,0,0,0,0,1,0,1,0,Pays de la Loire,CENTRE,7
+1,0,0,0,0,0,0,0,1,1,0,0,0,Occitanie,SUD,3
+0,1,0,0,0,0,0,1,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,0,0,0,0,0,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,1
+0,0,0,0,0,1,1,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,1,1,0,1,0,1,1,1,0,0,Provence-Alpes-Côte d'Azur,SUD,7
+1,0,0,0,0,0,0,0,0,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,2
+1,1,1,0,0,0,0,1,0,1,0,0,0,Île-de-France,Île-de-France,5
+0,0,1,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+1,1,1,1,0,0,0,0,0,1,1,1,0,Île-de-France,Île-de-France,7
+1,1,0,0,0,1,0,1,0,0,0,1,0,Normandie,NORD-OUEST,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,0,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,3
+0,1,1,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,1,1,0,0,1,0,1,0,0,0,1,1,Hauts-de-France,NORD-OUEST,6
+0,1,0,0,1,0,0,1,0,1,0,0,0,Normandie,NORD-OUEST,4
+1,1,0,0,1,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,1,0,1,0,0,0,1,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,1,0,0,1,1,0,0,0,0,0,1,1,Provence-Alpes-Côte d'Azur,SUD,6
+1,0,1,0,0,1,1,0,1,0,1,1,0,Bourgogne-Franche-Comté,CENTRE,7
+1,0,1,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,2
+1,0,1,0,0,0,0,1,0,0,1,1,0,Normandie,NORD-OUEST,5
+1,0,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,1,1,1,0,1,1,0,1,0,0,1,0,Normandie,NORD-OUEST,8
+1,1,0,0,0,0,0,0,1,0,0,1,0,Île-de-France,Île-de-France,4
+1,0,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,0,1,0,0,0,0,0,1,0,0,0,0,Occitanie,SUD,3
+1,0,1,0,0,1,0,0,1,1,1,0,0,Hauts-de-France,NORD-OUEST,6
+0,0,1,0,0,1,0,1,1,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,1,0,0,0,1,0,1,1,1,0,0,Grand Est,Grand Est,7
+1,1,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,2
+1,1,0,0,0,1,0,0,1,0,0,0,0,Occitanie,SUD,4
+0,0,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,0,0,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,0,0,0,1,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,1,0,0,1,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,1,0,1,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,0,0,1,0,1,0,0,0,0,0,0,Normandie,NORD-OUEST,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,0,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,3
+0,0,0,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,2
+1,1,1,0,0,0,1,1,1,1,1,1,0,Centre-Val de Loire,CENTRE,9
+0,0,0,1,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,0,0,0,0,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,1,0,0,1,1,0,0,1,0,1,0,Grand Est,Grand Est,7
+1,0,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,0,0,0,1,0,0,0,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,1,0,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,1,1,0,0,1,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,1,1,0,0,0,0,1,1,1,0,Île-de-France,Île-de-France,7
+0,1,1,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,1,1,1,1,1,1,1,1,1,1,0,Île-de-France,Île-de-France,12
+1,1,0,0,0,0,1,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,0,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,3
+1,1,0,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,0,0,0,0,0,0,0,0,0,1,Bretagne,NORD-OUEST,1
+1,1,0,0,0,0,0,0,0,1,0,0,0,Occitanie,SUD,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,1,1,0,0,0,1,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,1,1,0,1,1,1,1,1,1,1,1,0,Île-de-France,Île-de-France,11
+0,0,0,0,0,1,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+0,0,1,1,0,1,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,3
+0,0,0,0,1,1,1,0,0,0,1,1,0,Occitanie,SUD,5
+0,0,0,0,1,0,1,0,0,1,0,0,0,Bretagne,NORD-OUEST,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,0,0,0,0,0,0,0,1,0,0,0,Pays de la Loire,CENTRE,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,0,1,0,0,1,0,1,1,0,Normandie,NORD-OUEST,5
+1,0,1,1,0,1,1,1,1,1,1,1,0,Pays de la Loire,CENTRE,10
+0,1,0,1,0,0,0,0,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,1,0,0,1,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+1,1,1,0,0,1,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,0,0,0,0,0,0,0,1,0,0,1,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+0,1,0,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,0,1,0,0,1,0,0,1,1,1,0,0,Centre-Val de Loire,CENTRE,6
+0,1,0,0,0,1,0,0,1,0,0,1,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,1,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,0,0,0,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,1,1,0,0,1,1,1,1,1,0,0,0,Grand Est,Grand Est,8
+1,0,0,0,0,1,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+0,0,0,0,0,1,0,0,0,0,0,1,1,Hauts-de-France,NORD-OUEST,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+0,0,0,0,0,0,0,1,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+0,0,0,0,1,1,1,0,0,1,0,0,0,Hauts-de-France,NORD-OUEST,4
+1,1,0,1,0,0,0,1,0,1,1,1,0,Bretagne,NORD-OUEST,7
+1,1,1,0,0,1,0,0,1,1,0,0,0,Centre-Val de Loire,CENTRE,6
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,1,1,1,1,1,1,1,1,1,0,Grand Est,Grand Est,12
+1,0,0,1,0,0,0,0,0,0,0,1,0,Normandie,NORD-OUEST,3
+1,0,0,0,0,0,0,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,1,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,1,0,0,0,0,1,1,0,0,Île-de-France,Île-de-France,5
+0,0,1,0,0,0,1,0,0,0,1,0,0,Grand Est,Grand Est,3
+0,1,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,0,0,0,0,0,1,0,1,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,1,0,1,0,0,0,1,0,1,0,0,1,Centre-Val de Loire,CENTRE,5
+1,1,1,1,0,1,1,0,0,0,0,1,0,Normandie,NORD-OUEST,7
+0,1,1,0,0,0,0,0,1,0,0,0,0,Normandie,NORD-OUEST,3
+1,1,0,0,0,0,1,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,4
+0,0,1,0,0,0,0,0,1,0,0,0,0,Normandie,NORD-OUEST,2
+0,0,1,0,0,0,0,0,1,1,1,0,0,Île-de-France,Île-de-France,4
+1,1,1,0,0,1,1,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,6
+1,1,1,0,0,1,0,0,1,0,1,0,0,Hauts-de-France,NORD-OUEST,6
+1,0,0,1,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,2
+0,0,1,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,1,0,0,1,0,0,1,0,0,1,1,Bourgogne-Franche-Comté,CENTRE,7
+1,0,1,1,0,0,0,1,0,0,0,0,0,Grand Est,Grand Est,4
+1,1,1,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,0,1,0,0,1,1,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,4
+0,0,1,0,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,0,0,0,1,0,0,1,1,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+0,1,0,0,0,0,1,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,1,0,0,1,1,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,6
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,0,0,0,0,0,1,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+0,0,0,1,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,1,0,0,1,1,1,0,0,1,0,0,Normandie,NORD-OUEST,7
+1,1,1,1,1,0,1,0,0,1,0,1,0,Pays de la Loire,CENTRE,8
+1,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+1,0,0,1,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,0,0,0,1,0,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,1,0,0,1,1,0,1,1,1,1,0,Normandie,NORD-OUEST,9
+1,1,0,0,1,0,0,0,0,1,0,1,0,Île-de-France,Île-de-France,5
+1,1,0,0,1,0,0,0,1,1,1,0,0,Île-de-France,Île-de-France,6
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,0,0,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,0,1,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+1,0,1,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,0,1,0,0,1,0,0,1,1,1,0,0,Hauts-de-France,NORD-OUEST,6
+1,0,0,0,0,1,1,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,3
+0,1,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,2
+1,1,0,1,0,1,0,0,0,1,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+0,1,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+0,1,0,1,0,0,0,1,0,0,0,0,0,Grand Est,Grand Est,3
+1,1,0,0,0,1,0,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,4
+0,0,0,1,0,1,0,1,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,1,0,1,1,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,0,0,0,1,1,1,1,0,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,8
+1,1,0,0,1,0,0,0,0,1,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,1,1,0,0,1,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,1,0,0,0,0,0,0,0,0,1,0,0,Occitanie,SUD,3
+0,1,0,0,0,1,0,0,0,0,0,1,0,Grand Est,Grand Est,3
+0,0,0,0,0,0,0,0,0,0,0,1,1,Île-de-France,Île-de-France,2
+1,0,0,0,1,0,0,0,0,0,0,1,0,Occitanie,SUD,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,0,1,0,1,1,0,0,0,1,0,1,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,1,0,1,0,0,0,0,1,0,0,1,0,Centre-Val de Loire,CENTRE,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+1,0,0,1,0,0,0,0,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,1,1,0,0,0,0,1,1,1,0,Occitanie,SUD,7
+1,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,1,0,0,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,1,0,1,0,1,1,0,1,0,0,1,0,Hauts-de-France,NORD-OUEST,6
+0,1,0,1,1,1,1,1,1,1,1,0,0,Pays de la Loire,CENTRE,9
+1,1,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,2
+0,0,0,0,0,0,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,0,0,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+0,0,0,1,1,0,0,0,1,1,0,0,0,Normandie,NORD-OUEST,4
+0,1,1,0,0,0,0,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,3
+0,0,0,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+0,0,0,1,0,0,1,1,0,0,1,0,0,Bretagne,NORD-OUEST,4
+1,0,0,1,1,0,0,0,0,0,1,1,0,Grand Est,Grand Est,5
+1,1,1,0,0,1,1,0,1,0,0,1,0,Île-de-France,Île-de-France,7
+0,0,0,1,1,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,1,0,0,0,0,0,1,0,0,1,0,Pays de la Loire,CENTRE,4
+1,1,0,1,0,0,0,0,1,1,0,0,0,Île-de-France,Île-de-France,5
+0,0,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,1,0,0,1,0,1,1,1,1,1,0,Grand Est,Grand Est,9
+0,1,0,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,0,0,0,0,1,1,0,0,0,0,1,Pays de la Loire,CENTRE,4
+1,1,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,5
+0,0,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,0,1,0,0,0,0,0,0,0,0,1,Occitanie,SUD,2
+1,1,0,1,0,0,0,0,1,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,5
+0,0,0,0,0,0,0,0,0,0,0,0,1,Bourgogne-Franche-Comté,CENTRE,1
+0,1,1,0,0,0,0,0,1,1,1,0,0,Normandie,NORD-OUEST,5
+1,1,0,0,1,0,0,0,0,0,0,1,0,Centre-Val de Loire,CENTRE,4
+1,1,0,0,0,1,0,0,1,0,0,0,0,Bretagne,NORD-OUEST,4
+0,1,0,1,1,0,0,0,0,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,1,0,1,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,3
+1,1,0,0,0,1,1,0,1,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,6
+1,1,1,0,1,1,0,0,1,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,7
+1,0,0,0,0,1,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+0,0,1,0,0,0,1,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,0,1,0,1,0,0,0,Grand Est,Grand Est,3
+0,0,1,1,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+0,1,0,0,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,0,0,1,0,0,0,0,0,1,0,0,Hauts-de-France,NORD-OUEST,4
+0,0,1,1,0,0,0,0,1,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,0,0,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,0,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,0,1,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,0,0,0,0,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,0,0,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,1,0,0,1,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,1,0,0,0,0,0,1,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,0,0,0,0,0,0,0,0,0,0,0,1,Provence-Alpes-Côte d'Azur,SUD,2
+1,1,0,1,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+1,1,1,0,0,0,0,0,0,0,0,1,0,Grand Est,Grand Est,4
+0,1,0,0,0,0,1,0,0,0,0,0,1,Grand Est,Grand Est,3
+0,0,0,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,0,1,0,0,0,0,0,1,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,0,0,1,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,0,1,0,0,0,0,1,Pays de la Loire,CENTRE,3
+0,0,0,0,0,1,1,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,1,1,0,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,1,0,1,1,0,0,1,0,0,0,Pays de la Loire,CENTRE,6
+1,1,0,1,0,0,0,0,0,0,1,1,1,Centre-Val de Loire,CENTRE,6
+0,0,1,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+1,1,0,0,0,0,0,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,0,0,0,1,1,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,1,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,0,0,0,0,1,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,1,0,0,1,0,0,0,0,Île-de-France,Île-de-France,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,0,0,1,0,0,0,0,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,1,0,0,0,0,0,1,1,1,1,0,Île-de-France,Île-de-France,5
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,0,0,1,0,0,0,0,1,0,0,0,Pays de la Loire,CENTRE,3
+0,0,0,0,0,1,1,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+1,0,1,0,0,0,0,0,1,0,1,0,0,Île-de-France,Île-de-France,4
+0,1,0,0,0,0,0,0,1,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,3
+1,0,1,1,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,4
+0,1,0,0,0,1,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,0,1,0,0,0,0,0,1,0,1,0,0,Île-de-France,Île-de-France,3
+1,1,1,0,0,0,0,0,0,0,1,0,0,Bourgogne-Franche-Comté,CENTRE,4
+1,1,0,0,0,0,0,0,1,1,1,1,0,Bretagne,NORD-OUEST,6
+0,0,0,1,0,0,1,1,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,1,1,1,0,0,0,0,0,0,0,Occitanie,SUD,5
+0,0,0,0,0,0,0,0,0,0,0,1,0,Centre-Val de Loire,CENTRE,1
+1,0,0,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,1
+0,0,1,0,0,0,1,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,0,0,0,1,0,0,1,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,0,0,0,0,0,0,0,1,0,1,0,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,0,0,0,0,0,1,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,0,0,1,1,1,0,0,1,1,0,1,0,Grand Est,Grand Est,7
+0,0,0,1,1,0,0,0,0,0,0,1,0,Occitanie,SUD,3
+0,1,0,1,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+0,1,0,1,0,0,0,0,0,0,1,0,0,Bretagne,NORD-OUEST,3
+1,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,1,0,0,1,0,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,4
+1,0,0,0,0,0,0,0,0,0,0,1,1,Île-de-France,Île-de-France,3
+0,0,0,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+0,1,0,1,1,0,0,1,0,0,1,0,0,Île-de-France,Île-de-France,5
+0,1,0,0,0,1,0,1,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,1,0,1,0,0,0,1,1,0,0,0,Île-de-France,Île-de-France,4
+1,1,0,0,0,0,0,0,0,1,0,0,0,Grand Est,Grand Est,3
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,0,1,1,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+0,0,0,1,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,0,0,1,0,0,0,0,1,0,1,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,1,0,1,0,1,0,0,0,0,0,1,1,Bourgogne-Franche-Comté,CENTRE,6
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,0,0,0,0,0,0,0,0,0,0,0,1,Occitanie,SUD,2
+0,1,0,0,1,0,0,0,0,1,1,1,0,Hauts-de-France,NORD-OUEST,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+0,0,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,1,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,4
+0,0,0,1,0,0,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,2
+1,1,0,0,1,0,0,0,0,1,1,1,0,Hauts-de-France,NORD-OUEST,6
+1,0,0,0,1,0,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,1,1,0,0,0,0,1,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,1,0,1,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,3
+0,0,0,0,0,1,0,0,0,0,1,0,0,Normandie,NORD-OUEST,2
+0,1,1,1,0,1,0,0,0,1,1,1,0,Centre-Val de Loire,CENTRE,7
+1,0,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,0,0,1,1,1,1,0,1,0,0,1,Bourgogne-Franche-Comté,CENTRE,8
+0,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,1
+1,1,0,0,0,1,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,3
+1,1,0,1,1,1,0,0,0,0,1,1,0,Pays de la Loire,CENTRE,7
+0,0,0,1,1,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,1,1,1,0,1,0,0,1,1,1,0,0,Hauts-de-France,NORD-OUEST,8
+0,0,1,0,0,0,0,0,1,0,1,0,0,Occitanie,SUD,3
+1,1,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,5
+1,0,0,0,0,1,0,0,0,0,0,0,1,Île-de-France,Île-de-France,3
+0,0,0,1,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,1,0,1,0,0,0,0,1,1,0,Bourgogne-Franche-Comté,CENTRE,6
+0,0,0,0,1,0,0,1,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,0,1,0,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,0,0,0,1,1,0,0,1,0,0,1,0,Occitanie,SUD,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,0,0,1,1,0,0,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,5
+1,0,0,0,1,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,0,1,1,0,0,1,0,0,0,0,Occitanie,SUD,5
+1,0,0,0,0,0,0,0,0,0,0,1,0,Grand Est,Grand Est,2
+1,1,1,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,0,0,0,0,1,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,1,0,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,0,0,0,0,0,1,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,3
+1,0,0,1,0,0,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,3
+1,1,0,1,1,0,0,0,0,0,1,1,0,Bourgogne-Franche-Comté,CENTRE,6
+0,0,0,1,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,0,0,1,1,0,0,0,0,0,0,Occitanie,SUD,4
+1,1,0,0,1,1,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+0,1,0,0,0,0,1,0,1,0,1,0,0,Grand Est,Grand Est,4
+0,1,0,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,2
+0,1,0,1,1,0,1,1,1,1,1,0,0,Occitanie,SUD,8
+1,0,1,1,0,0,0,0,1,1,1,0,0,Pays de la Loire,CENTRE,6
+1,1,0,0,0,0,0,0,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,1,0,0,1,0,0,1,0,0,0,0,Occitanie,SUD,4
+0,1,0,0,0,0,0,0,1,1,1,0,0,Occitanie,SUD,4
+0,1,1,1,1,1,1,1,1,1,1,0,0,Île-de-France,Île-de-France,10
+1,0,0,1,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,0,0,1,0,0,1,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,1,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+0,1,1,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+0,0,1,0,0,0,0,0,1,0,0,0,0,Occitanie,SUD,2
+1,1,1,0,0,0,0,0,1,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,0,0,1,0,0,1,0,0,0,1,1,0,Occitanie,SUD,5
+0,0,0,1,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,0,0,0,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,0,1,0,1,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,4
+0,1,1,0,0,1,1,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,4
+0,1,0,1,0,0,0,1,0,0,0,0,0,Centre-Val de Loire,CENTRE,3
+0,0,1,0,0,1,0,0,1,1,1,0,0,Occitanie,SUD,5
+0,0,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,1,0,0,1,0,0,1,1,0,0,0,Occitanie,SUD,6
+0,0,1,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,1,1,0,0,0,0,0,1,0,0,Hauts-de-France,NORD-OUEST,4
+0,1,1,0,0,0,0,0,1,1,0,0,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,0,1,0,0,0,1,0,1,0,0,1,1,Hauts-de-France,NORD-OUEST,5
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,0,0,0,0,0,0,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,1,0,0,1,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,1,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,0,0,1,1,0,0,0,0,0,1,1,0,Île-de-France,Île-de-France,5
+0,1,1,0,0,1,0,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,4
+0,1,1,0,0,0,0,0,1,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,1,0,0,1,1,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+0,1,0,0,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,1,0,0,0,0,1,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,0,0,0,0,0,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,2
+0,0,0,0,0,0,1,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,1,1,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,1,0,1,1,0,0,0,0,1,0,0,0,Pays de la Loire,CENTRE,4
+0,0,0,0,0,0,0,0,0,0,0,0,1,Bourgogne-Franche-Comté,CENTRE,1
+1,0,0,1,1,1,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,1,1,0,0,1,1,0,1,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,9
+1,0,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,1,0,0,0,0,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,3
+1,1,1,0,0,1,0,0,1,1,1,1,0,Occitanie,SUD,8
+0,0,0,1,0,0,0,0,0,0,0,1,0,Grand Est,Grand Est,2
+0,1,0,0,1,1,1,0,0,1,0,0,0,Hauts-de-France,NORD-OUEST,5
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,1,1,1,0,0,0,0,1,0,Pays de la Loire,CENTRE,6
+1,1,0,1,0,1,1,0,0,1,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,7
+0,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,1
+0,1,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,1,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,1,0,0,0,0,0,0,0,1,0,Centre-Val de Loire,CENTRE,3
+1,0,0,1,1,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,0,0,1,1,1,0,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,1,0,0,1,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,3
+0,1,0,1,0,0,0,1,0,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+1,0,0,1,1,1,0,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,0,1,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,1,1,1,0,0,0,0,1,0,0,Île-de-France,Île-de-France,5
+1,1,0,0,0,0,0,0,0,0,0,0,1,Grand Est,Grand Est,3
+1,1,0,0,0,0,0,1,0,0,1,0,1,Bourgogne-Franche-Comté,CENTRE,5
+1,0,0,1,1,0,0,0,0,0,0,1,1,Île-de-France,Île-de-France,5
+0,0,0,1,1,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,0,0,0,0,0,0,0,0,1,0,1,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,1,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+1,1,0,1,1,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,4
+1,1,0,0,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,1,1,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,3
+0,0,0,0,1,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+0,0,1,1,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,3
+1,0,0,1,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,1,0,0,0,0,0,0,1,0,1,1,0,Centre-Val de Loire,CENTRE,5
+0,0,0,1,1,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+0,1,1,1,1,1,0,1,1,0,0,1,0,Occitanie,SUD,8
+0,1,0,0,0,0,0,1,1,0,1,1,0,Grand Est,Grand Est,5
+1,0,0,0,0,0,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+0,0,0,1,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,0,0,0,1,0,0,0,0,1,0,0,0,Bretagne,NORD-OUEST,3
+0,0,0,0,0,1,1,0,1,1,0,0,0,Occitanie,SUD,4
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,0,0,0,0,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,0,0,1,1,0,0,0,0,1,0,0,0,Grand Est,Grand Est,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,0,0,1,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,0,1,1,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,1,0,0,0,0,0,0,0,1,0,Normandie,NORD-OUEST,4
+1,1,0,0,1,0,1,1,0,0,0,1,0,Occitanie,SUD,6
+0,0,0,1,1,0,0,0,0,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,0,0,0,0,0,0,0,0,0,0,1,0,Grand Est,Grand Est,2
+1,0,0,1,0,0,0,0,0,0,0,1,0,Centre-Val de Loire,CENTRE,3
+1,0,0,1,1,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,0,0,1,1,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,0,1,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,2
+0,1,0,0,0,0,0,1,0,0,0,0,0,Centre-Val de Loire,CENTRE,2
+1,1,0,0,1,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,0,1,0,0,0,0,0,0,0,1,0,Normandie,NORD-OUEST,2
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,1,1,0,0,0,0,0,0,1,0,Grand Est,Grand Est,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+0,0,0,1,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,0,0,1,0,0,0,1,0,0,0,0,Normandie,NORD-OUEST,3
+0,1,0,0,0,0,0,0,0,1,0,0,0,Occitanie,SUD,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,1,1,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,1,0,0,0,0,0,0,1,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,0,1,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,0,0,0,1,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,0,0,1,0,0,1,1,1,0,0,Centre-Val de Loire,CENTRE,5
+1,1,0,0,1,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,0,1,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,0,1,1,1,1,0,0,1,0,1,1,0,Île-de-France,Île-de-France,8
+0,0,0,1,0,0,0,1,0,0,0,0,0,Normandie,NORD-OUEST,2
+0,0,1,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+1,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,0,0,0,1,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,0,0,1,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,0,0,0,1,1,0,0,0,0,0,0,Pays de la Loire,CENTRE,3
+1,0,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+1,1,0,1,1,0,0,0,1,1,0,1,0,Normandie,NORD-OUEST,7
+0,0,0,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,0,0,1,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,2
+0,0,0,0,0,1,0,0,0,1,0,0,0,Normandie,NORD-OUEST,2
+0,1,0,0,0,1,0,1,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,1,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,0,0,1,1,0,0,0,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,0,0,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,0,1,0,0,0,0,0,0,1,0,Normandie,NORD-OUEST,3
+0,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,1
+1,0,0,1,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,0,0,0,0,1,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+0,1,0,0,0,0,0,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,0,0,0,1,0,0,1,1,1,0,0,Provence-Alpes-Côte d'Azur,SUD,6
+1,1,0,0,1,1,1,0,0,1,1,0,0,Centre-Val de Loire,CENTRE,7
+1,1,0,0,0,1,0,0,1,0,0,0,0,Île-de-France,Île-de-France,4
+0,0,0,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,0,0,1,1,0,0,1,0,1,1,0,Bretagne,NORD-OUEST,7
+0,1,0,0,0,1,1,1,0,0,0,0,1,Pays de la Loire,CENTRE,5
+0,0,0,0,0,0,0,0,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+0,0,0,0,0,0,1,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,0,1,0,1,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,1,0,0,0,1,1,1,0,0,1,0,Occitanie,SUD,6
+0,0,0,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,0,0,0,0,0,1,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,0,0,1,1,0,0,0,0,1,1,0,0,Hauts-de-France,NORD-OUEST,5
+0,0,0,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,0,0,0,1,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,0,1,1,1,0,0,1,1,1,1,0,Île-de-France,Île-de-France,9
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,1,1,0,1,0,0,1,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+0,0,0,0,1,0,0,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,0,1,0,0,1,0,0,0,Grand Est,Grand Est,4
+0,0,1,0,0,1,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,0,0,1,0,0,1,1,0,1,0,Grand Est,Grand Est,6
+1,1,0,0,0,1,0,0,0,0,1,1,0,Pays de la Loire,CENTRE,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,1,1,0,0,0,0,0,0,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,0,0,0,0,0,0,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,0,0,1,0,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+1,0,0,1,0,0,0,0,0,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,3
+0,0,1,1,0,0,0,1,0,0,0,0,0,Pays de la Loire,CENTRE,3
+0,1,1,0,0,1,1,0,0,0,0,1,0,Centre-Val de Loire,CENTRE,5
+0,1,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,1,0,1,1,1,0,1,1,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,10
+1,1,0,0,0,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,0,1,0,0,1,0,0,0,0,0,0,0,Normandie,NORD-OUEST,3
+1,1,0,1,1,0,0,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+0,0,0,0,0,0,0,0,0,1,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,1,0,0,1,0,0,1,0,0,0,1,Hauts-de-France,NORD-OUEST,6
+1,1,1,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,3
+0,0,1,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,0,1,0,0,0,0,0,1,0,0,1,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,1,0,0,0,0,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,3
+0,1,1,0,0,1,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,0,0,0,0,0,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,1,1,0,0,1,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,1,0,0,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,4
+1,0,0,0,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,2
+0,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,1
+1,1,1,0,1,1,0,1,1,1,0,0,0,Bourgogne-Franche-Comté,CENTRE,8
+1,0,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+1,0,1,0,0,1,1,0,1,0,0,0,0,Grand Est,Grand Est,5
+0,1,1,0,0,0,0,0,1,0,0,0,0,Occitanie,SUD,3
+1,1,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,0,0,0,0,1,0,0,0,0,1,0,0,Centre-Val de Loire,CENTRE,3
+0,0,0,0,0,0,0,0,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,0,1,0,0,0,1,0,0,0,0,Normandie,NORD-OUEST,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,1,1,0,0,1,0,0,1,0,1,0,0,Bourgogne-Franche-Comté,CENTRE,6
+1,1,1,0,0,1,0,0,1,1,1,0,0,Occitanie,SUD,7
+1,1,0,0,0,1,1,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,4
+1,1,1,0,0,1,0,0,0,0,0,0,0,Normandie,NORD-OUEST,4
+0,0,1,0,0,0,0,0,1,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+0,0,0,1,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,2
+1,0,0,0,1,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,1,0,0,1,0,0,1,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,5
+0,0,1,0,0,1,0,0,1,1,1,0,0,Hauts-de-France,NORD-OUEST,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+0,0,1,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+0,0,1,0,0,0,1,0,1,0,0,0,0,Occitanie,SUD,3
+0,1,1,0,0,0,0,0,1,0,1,0,0,Île-de-France,Île-de-France,4
+0,1,0,0,0,0,1,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+1,0,0,0,0,0,0,0,0,0,0,1,0,Centre-Val de Loire,CENTRE,2
+0,1,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,0,1,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+0,0,1,1,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,1,0,0,0,1,0,0,1,0,0,0,0,Bretagne,NORD-OUEST,3
+0,0,1,0,0,0,1,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,3
+0,0,1,0,0,1,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,0,0,1,0,0,0,0,0,1,1,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+0,0,0,0,0,0,0,0,0,0,0,0,1,Bretagne,NORD-OUEST,1
+1,1,1,1,1,1,1,1,1,1,1,1,0,Île-de-France,Île-de-France,12
+0,0,0,0,0,0,0,0,0,0,0,0,1,Grand Est,Grand Est,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+0,0,1,0,0,0,1,0,0,0,0,0,1,Pays de la Loire,CENTRE,3
+0,1,1,0,0,0,0,0,1,0,1,0,0,Pays de la Loire,CENTRE,4
+1,0,1,0,0,1,0,0,1,0,0,1,0,Île-de-France,Île-de-France,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,0,1,0,0,1,1,0,0,0,0,0,Grand Est,Grand Est,5
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,1,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,0,1,0,0,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+0,1,0,0,0,0,1,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,0,0,1,1,0,1,0,0,1,0,Hauts-de-France,NORD-OUEST,6
+1,0,1,0,0,0,0,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,0,0,0,0,1,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+1,1,0,0,0,0,1,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,4
+1,0,0,1,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,0,0,0,0,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,0,1,0,0,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+0,0,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,0,0,0,0,0,0,1,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+0,1,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,1,0,0,0,0,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,0,0,0,1,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+1,1,1,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,3
+0,0,1,0,0,0,0,0,1,0,0,1,0,Centre-Val de Loire,CENTRE,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,1,0,1,1,0,0,0,0,1,0,Île-de-France,Île-de-France,7
+1,1,0,0,1,0,0,0,0,0,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,0,0,0,1,1,0,0,0,1,0,0,Bretagne,NORD-OUEST,5
+0,1,1,1,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,4
+1,0,0,1,1,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,3
+0,1,0,0,0,0,0,1,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,Grand Est,Grand Est,2
+1,0,1,1,1,1,0,0,1,1,1,1,0,Pays de la Loire,CENTRE,9
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,0,0,1,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,1,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,1,1,0,0,0,0,0,1,1,0,0,0,Hauts-de-France,NORD-OUEST,4
+0,1,0,0,1,0,0,0,0,1,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,1,0,1,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,1,0,1,0,0,0,0,1,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,0,0,0,1,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+1,1,0,1,1,1,1,0,0,1,1,1,0,Île-de-France,Île-de-France,9
+1,1,1,0,0,0,0,0,0,0,0,1,1,Normandie,NORD-OUEST,5
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+0,0,0,0,0,1,0,0,0,1,0,0,0,Île-de-France,Île-de-France,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,0,0,0,1,0,0,0,1,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,1,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,1,0,0,0,0,0,1,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,1,0,1,1,0,0,0,0,1,0,1,0,Occitanie,SUD,6
+1,1,0,0,1,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,0,0,0,1,0,0,0,0,0,1,0,Centre-Val de Loire,CENTRE,4
+1,0,0,0,1,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,0,0,1,1,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,0,0,1,0,1,0,0,1,0,0,0,0,Normandie,NORD-OUEST,3
+1,1,0,1,1,1,0,0,0,1,0,1,0,Centre-Val de Loire,CENTRE,7
+1,0,0,0,0,0,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+0,1,1,0,0,0,1,0,1,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,1,1,0,0,1,0,0,0,0,0,0,0,Occitanie,SUD,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,0,0,1,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+0,1,0,0,0,0,1,0,0,0,0,0,0,Occitanie,SUD,2
+1,0,0,0,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,0,1,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+0,1,0,1,1,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,4
+0,0,0,0,0,0,1,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,0,0,0,0,0,0,0,0,0,0,0,1,Hauts-de-France,NORD-OUEST,1
+1,0,0,1,1,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,4
+0,0,0,0,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,1,0,0,0,0,0,0,0,1,1,Grand Est,Grand Est,4
+0,0,0,0,0,0,0,1,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,0,0,1,1,1,0,0,0,0,0,1,0,Île-de-France,Île-de-France,5
+1,0,0,1,0,0,0,0,0,0,1,1,1,Pays de la Loire,CENTRE,5
+0,0,0,0,0,0,0,0,1,0,1,0,0,Pays de la Loire,CENTRE,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,1,1,1,1,0,1,0,0,0,0,1,0,Grand Est,Grand Est,7
+0,0,0,1,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+0,0,0,1,1,0,0,0,0,1,1,1,0,Île-de-France,Île-de-France,5
+1,0,0,1,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,2
+1,1,0,1,1,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,5
+1,1,0,1,1,1,0,0,0,1,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,7
+1,1,0,1,0,0,0,1,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,5
+0,0,0,1,1,0,0,0,1,1,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,0,0,1,1,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,3
+1,1,0,1,0,0,0,0,0,0,0,0,1,Centre-Val de Loire,CENTRE,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,0,1,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,2
+1,0,0,1,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+1,1,0,1,0,0,0,0,1,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,5
+0,0,0,0,0,1,1,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,1,0,1,0,0,0,1,0,1,0,Hauts-de-France,NORD-OUEST,5
+0,0,0,1,0,0,0,0,0,0,1,1,0,Pays de la Loire,CENTRE,3
+1,0,0,1,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,1,0,0,1,0,0,1,0,0,0,0,Île-de-France,Île-de-France,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,1,1,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,1,1,0,0,0,0,1,1,0,1,0,Île-de-France,Île-de-France,6
+0,0,0,0,0,1,0,0,0,0,1,0,0,Bretagne,NORD-OUEST,2
+1,1,0,1,0,1,0,1,0,0,0,1,0,Grand Est,Grand Est,6
+0,0,0,0,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,1
+1,1,0,1,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,3
+0,0,1,1,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,1
+1,0,0,0,0,0,0,0,0,0,0,1,0,Occitanie,SUD,2
+0,0,1,0,0,0,1,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,0,1,0,1,0,0,0,0,0,1,0,Centre-Val de Loire,CENTRE,5
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,0,0,0,1,0,0,0,1,1,0,Grand Est,Grand Est,5
+1,0,0,0,0,1,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,1,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,4
+1,1,0,0,0,0,0,0,1,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,0,0,1,1,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,1,0,0,0,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,3
+0,0,1,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,0,0,0,0,0,0,0,1,1,0,Bourgogne-Franche-Comté,CENTRE,4
+1,0,0,1,1,0,0,0,0,1,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,1,1,0,0,0,0,1,1,0,0,1,0,Normandie,NORD-OUEST,5
+1,1,0,0,1,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,3
+1,1,0,1,0,0,0,0,0,0,0,1,0,Occitanie,SUD,4
+1,0,0,0,0,0,0,0,1,0,0,0,0,Occitanie,SUD,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,1,0,0,0,0,0,0,1,1,0,0,0,Occitanie,SUD,4
+0,0,0,1,1,0,1,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,1,1,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+0,0,0,1,1,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,0,0,0,0,0,0,1,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,0,0,0,0,0,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,0,0,1,0,0,0,0,0,0,0,1,1,Grand Est,Grand Est,4
+1,1,0,0,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,1,0,0,0,0,1,1,0,0,0,Pays de la Loire,CENTRE,5
+1,0,1,0,0,1,1,0,0,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,5
+0,1,0,0,0,1,0,0,1,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,1,0,0,0,1,1,1,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+1,1,0,0,0,1,0,0,0,0,1,0,0,Bretagne,NORD-OUEST,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,2
+1,1,0,0,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,1,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,0,0,0,0,0,1,0,0,0,1,0,Hauts-de-France,NORD-OUEST,2
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,1,0,0,0,0,0,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,0,1,1,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,0,0,0,0,0,0,0,0,0,0,0,1,Grand Est,Grand Est,1
+0,0,1,0,0,0,0,0,1,0,0,1,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,0,0,0,0,0,1,0,1,1,0,Bretagne,NORD-OUEST,5
+0,1,1,0,0,0,1,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,1,0,1,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+0,1,1,0,0,1,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,0,0,0,0,0,1,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,1,0,1,1,1,0,1,1,1,1,0,Provence-Alpes-Côte d'Azur,SUD,10
+0,0,1,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,1,1,1,1,1,0,1,1,1,1,1,0,Occitanie,SUD,11
+0,0,0,0,1,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,1,1,0,1,0,0,1,1,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,9
+1,0,0,0,0,0,0,0,0,0,0,1,0,Occitanie,SUD,2
+0,0,0,1,1,0,0,0,0,0,1,0,0,Bourgogne-Franche-Comté,CENTRE,3
+1,1,0,1,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,1,0,0,0,1,0,1,0,0,0,0,Grand Est,Grand Est,3
+1,1,0,1,1,0,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,5
+0,0,0,0,0,0,0,0,0,1,1,1,0,Île-de-France,Île-de-France,3
+0,1,1,0,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,3
+0,1,0,1,1,0,0,0,0,0,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,0,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,0,0,0,0,0,1,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,1,0,0,1,0,0,0,0,0,1,0,0,Hauts-de-France,NORD-OUEST,4
+0,1,0,0,0,1,0,0,1,1,0,0,0,Bourgogne-Franche-Comté,CENTRE,4
+0,1,1,0,0,1,1,0,0,0,0,0,1,Centre-Val de Loire,CENTRE,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,0,0,1,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,1,0,0,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,1,0,1,0,0,0,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,0,0,1,1,0,0,0,0,1,0,1,0,Pays de la Loire,CENTRE,5
+1,0,0,1,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+0,1,0,0,1,0,0,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,3
+0,0,0,1,1,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,1,0,1,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,4
+0,0,1,0,0,0,0,0,1,0,1,0,0,Pays de la Loire,CENTRE,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,0,0,0,0,0,0,0,0,0,0,0,1,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,1,1,0,0,1,0,1,1,0,0,0,0,Île-de-France,Île-de-France,5
+1,1,1,0,0,1,1,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+0,1,0,0,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,0,1,1,0,0,0,0,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,0,0,1,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,1,1,1,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,1,0,0,1,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,1,0,0,0,0,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,0,0,0,0,1,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+0,0,0,0,0,0,0,0,0,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,1
+1,1,1,0,1,1,1,0,1,1,0,1,0,Bretagne,NORD-OUEST,9
+1,0,0,0,0,0,0,0,0,1,0,0,1,Normandie,NORD-OUEST,3
+1,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,1,1,0,0,0,0,0,1,0,0,Grand Est,Grand Est,5
+1,0,0,0,0,0,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,2
+0,0,0,0,0,1,1,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,1,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,3
+1,0,1,0,0,0,0,0,1,0,0,1,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,1,1,1,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,4
+0,1,0,0,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,1,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,0,0,1,1,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,0,0,0,1,0,0,0,0,0,0,1,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,0,1,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,0,1,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,1,0,0,1,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,0,1,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,1,1,1,1,0,0,1,1,1,1,0,Provence-Alpes-Côte d'Azur,SUD,10
+0,1,0,0,0,0,1,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,2
+0,1,0,1,0,1,0,0,1,0,0,0,0,Île-de-France,Île-de-France,4
+1,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+0,1,0,0,0,0,1,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,1,0,0,0,1,0,0,1,1,0,0,0,Occitanie,SUD,4
+0,1,0,0,1,0,1,1,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,1,1,0,0,0,0,0,1,0,0,0,1,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,2
+1,0,0,0,1,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,2
+1,0,0,0,0,0,0,0,0,0,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,1,0,0,1,0,1,1,1,0,0,0,Île-de-France,Île-de-France,6
+1,1,1,0,0,1,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,0,1,0,0,0,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,2
+0,0,1,1,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,1,0,0,1,0,1,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,1,0,0,1,1,0,1,0,1,0,0,Bourgogne-Franche-Comté,CENTRE,7
+0,0,0,0,0,0,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,1
+1,1,1,0,0,0,0,0,1,0,1,0,0,Normandie,NORD-OUEST,5
+0,0,0,0,0,0,0,0,0,0,0,0,1,Normandie,NORD-OUEST,1
+0,0,0,0,0,0,0,0,1,0,0,1,0,Île-de-France,Île-de-France,2
+1,1,1,0,0,1,1,0,1,0,1,0,0,Pays de la Loire,CENTRE,7
+0,1,1,0,0,1,0,0,1,1,0,0,0,Pays de la Loire,CENTRE,5
+1,0,1,0,0,0,1,0,1,0,0,0,0,Île-de-France,Île-de-France,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,0,0,0,1,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+0,0,1,0,0,1,0,0,0,0,0,0,1,Île-de-France,Île-de-France,3
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,0,1,0,0,0,0,0,0,0,0,1,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,3
+0,0,1,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,0,0,1,0,0,1,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+1,0,1,0,0,0,1,0,1,0,1,1,0,Hauts-de-France,NORD-OUEST,6
+1,1,0,0,0,1,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,0,1,0,0,0,1,1,0,0,0,0,0,Occitanie,SUD,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,1,0,0,0,1,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,0,0,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,1,0,0,1,1,0,0,0,1,1,0,Hauts-de-France,NORD-OUEST,6
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,0,0,0,0,0,1,0,0,0,0,Normandie,NORD-OUEST,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,0,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,1,0,0,0,0,0,1,0,Normandie,NORD-OUEST,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,0,0,0,0,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,1,0,0,0,0,1,0,1,1,0,Bretagne,NORD-OUEST,7
+0,0,1,0,0,0,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,2
+1,0,0,0,0,1,0,0,1,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,1,1,1,0,0,0,1,1,1,1,1,Hauts-de-France,NORD-OUEST,10
+1,1,0,0,0,1,0,0,0,0,1,1,0,Centre-Val de Loire,CENTRE,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+1,1,0,1,1,0,0,0,0,0,0,0,0,Grand Est,Grand Est,4
+1,0,0,0,0,1,1,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,1,0,1,1,0,0,0,0,0,0,0,0,Grand Est,Grand Est,4
+0,0,0,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,0,0,0,1,1,0,0,1,1,0,0,Bourgogne-Franche-Comté,CENTRE,6
+1,0,0,1,0,0,0,0,0,0,0,1,1,Occitanie,SUD,4
+1,0,0,0,1,0,0,1,0,0,1,1,0,Île-de-France,Île-de-France,5
+1,1,1,0,0,0,0,0,1,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,1,0,1,0,1,1,0,1,0,0,0,Île-de-France,Île-de-France,7
+1,1,0,1,1,0,0,1,0,0,0,0,0,Occitanie,SUD,5
+1,1,1,0,1,1,1,0,1,1,0,0,0,Normandie,NORD-OUEST,8
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,0,0,1,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,1,0,0,1,0,0,1,1,1,0,1,0,Île-de-France,Île-de-France,6
+0,0,1,0,0,0,0,0,1,0,0,0,1,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,1,0,0,1,0,0,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,1,1,0,0,1,0,0,0,1,1,1,0,Bourgogne-Franche-Comté,CENTRE,7
+0,1,1,0,0,0,0,1,1,0,0,0,0,Normandie,NORD-OUEST,4
+1,1,0,1,0,0,0,0,1,1,0,1,0,Île-de-France,Île-de-France,6
+0,1,0,0,1,0,0,0,0,1,0,0,0,Grand Est,Grand Est,3
+0,1,0,0,0,0,0,1,0,0,0,0,0,Centre-Val de Loire,CENTRE,2
+0,1,0,0,0,1,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,1,0,0,0,1,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,1,1,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,4
+1,0,1,0,0,1,1,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,5
+1,1,0,0,0,0,0,0,1,1,0,0,0,Occitanie,SUD,4
+1,0,1,1,0,0,1,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+0,1,0,1,0,0,0,1,0,0,0,1,0,Bretagne,NORD-OUEST,4
+1,1,0,1,0,0,0,1,0,0,0,0,0,Occitanie,SUD,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,0,0,0,0,0,0,0,0,1,Hauts-de-France,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,1,1,1,0,1,1,1,1,0,1,0,Île-de-France,Île-de-France,10
+0,0,0,1,1,0,0,0,0,0,0,1,0,Normandie,NORD-OUEST,3
+1,1,1,1,0,1,0,1,1,1,1,1,0,Centre-Val de Loire,CENTRE,10
+0,1,0,1,0,0,0,1,0,0,1,1,0,Occitanie,SUD,5
+1,0,0,0,0,0,0,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,1,0,1,1,0,0,1,0,1,1,1,0,Normandie,NORD-OUEST,7
+1,0,0,0,0,0,0,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,0,0,0,0,0,0,0,0,1,0,1,Bourgogne-Franche-Comté,CENTRE,4
+0,0,1,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,1,1,1,0,0,1,0,0,1,0,1,0,Hauts-de-France,NORD-OUEST,7
+1,0,0,0,0,1,0,0,0,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,1,0,1,0,0,0,0,1,1,0,Hauts-de-France,NORD-OUEST,6
+1,1,1,0,1,1,0,0,0,1,0,0,0,Bretagne,NORD-OUEST,6
+1,1,0,0,1,0,1,0,0,1,1,1,0,Île-de-France,Île-de-France,7
+0,0,1,0,0,1,0,0,0,0,1,0,0,Pays de la Loire,CENTRE,3
+0,1,0,1,1,1,1,0,1,1,1,0,0,Île-de-France,Île-de-France,8
+1,0,1,0,0,0,0,0,1,0,0,0,0,Centre-Val de Loire,CENTRE,3
+0,0,1,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,1,0,0,0,0,0,0,1,1,1,0,0,Pays de la Loire,CENTRE,4
+1,0,1,0,0,1,0,0,1,0,1,0,0,Île-de-France,Île-de-France,5
+0,0,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,0,0,0,0,0,0,1,1,0,1,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,0,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+0,0,0,0,0,0,0,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,1,1,0,0,1,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,4
+1,1,1,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,3
+1,1,0,0,0,1,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,1,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,1,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,0,1,0,0,0,0,0,0,1,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,0,0,0,0,1,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,1,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+1,1,0,1,1,0,0,0,0,1,0,0,0,Occitanie,SUD,5
+0,0,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,1
+1,1,1,0,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,4
+0,1,1,1,0,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,4
+0,1,1,0,0,1,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+0,1,1,1,1,0,0,1,1,0,1,1,1,Pays de la Loire,CENTRE,9
+1,0,0,1,0,1,0,0,1,1,1,1,0,Île-de-France,Île-de-France,7
+0,0,0,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,1,0,0,0,0,0,1,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,0,1,0,0,1,1,0,1,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,6
+0,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,1
+1,1,0,0,0,0,0,0,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+0,1,0,0,0,0,0,1,1,0,1,1,1,Pays de la Loire,CENTRE,6
+1,1,0,0,0,1,0,0,0,1,0,0,0,Hauts-de-France,NORD-OUEST,4
+0,1,0,0,1,0,0,1,0,0,1,0,0,Bretagne,NORD-OUEST,4
+1,1,0,0,0,0,0,0,0,1,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,0,0,0,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,1,1,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,3
+1,1,1,0,0,1,0,0,1,1,0,0,0,Grand Est,Grand Est,6
+1,1,0,0,1,0,0,0,0,0,0,0,0,Grand Est,Grand Est,3
+0,0,1,0,0,0,1,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,0,0,0,0,1,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,3
+1,1,1,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,5
+0,1,1,0,0,0,1,0,1,1,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,0,0,0,0,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,0,0,1,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,1,0,0,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,2
+1,1,1,0,1,1,1,1,1,1,1,0,1,Bretagne,NORD-OUEST,11
+0,1,1,0,0,1,1,0,0,0,0,0,0,Bretagne,NORD-OUEST,4
+1,1,0,0,1,0,0,0,1,0,1,0,0,Occitanie,SUD,5
+0,0,1,0,1,0,0,0,1,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,0,0,1,0,1,1,0,0,1,1,0,0,Provence-Alpes-Côte d'Azur,SUD,5
+0,1,0,1,1,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,1,0,0,1,0,0,1,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+0,0,1,0,1,1,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+1,0,0,0,1,0,0,0,0,1,1,1,0,Occitanie,SUD,5
+0,0,0,0,1,0,1,0,0,0,0,1,0,Occitanie,SUD,3
+0,1,0,0,0,0,1,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,0,1,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,1,0,0,0,0,0,1,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,0,0,0,1,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+0,0,1,0,0,0,0,0,1,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,1,0,0,1,0,1,0,1,1,1,1,0,Île-de-France,Île-de-France,7
+1,0,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,0,0,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+1,1,0,1,0,0,0,0,0,0,0,1,0,Grand Est,Grand Est,4
+1,1,0,0,1,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,0,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,1,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,1,0,1,1,1,0,1,0,1,0,0,Pays de la Loire,CENTRE,8
+0,1,0,0,0,0,0,1,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,0,1,0,0,0,1,0,0,0,0,0,Grand Est,Grand Est,4
+1,0,1,0,0,0,0,0,1,0,0,0,0,Bretagne,NORD-OUEST,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,0,0,0,1,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,1,0,0,1,0,0,1,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,1,0,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,0,0,1,1,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,2
+1,1,0,1,1,1,0,0,0,1,0,0,0,Occitanie,SUD,6
+0,0,0,0,0,0,0,0,0,0,1,1,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,1,1,0,0,0,0,1,1,1,0,Bretagne,NORD-OUEST,7
+1,1,1,1,1,1,1,1,1,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,12
+0,0,0,0,0,1,1,1,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,0,0,0,0,0,0,0,0,0,1,0,Occitanie,SUD,3
+1,1,0,1,0,0,1,0,1,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,8
+1,0,0,0,0,0,0,0,1,1,1,0,0,Île-de-France,Île-de-France,4
+0,0,1,0,0,1,1,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,0,0,0,1,1,0,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,0,1,1,0,1,1,0,1,1,1,0,Provence-Alpes-Côte d'Azur,SUD,9
+1,0,0,1,0,0,0,0,0,0,0,1,1,Grand Est,Grand Est,4
+1,1,0,0,1,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,1,0,0,0,0,0,1,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,1,0,0,0,1,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,1,0,0,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,1,1,1,1,0,0,1,0,1,0,0,Pays de la Loire,CENTRE,6
+0,0,0,1,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,1,0,0,0,0,0,0,1,1,0,Occitanie,SUD,5
+0,0,0,0,0,1,0,0,0,0,1,0,0,Pays de la Loire,CENTRE,2
+0,0,0,0,0,0,0,0,0,0,0,0,1,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,1,0,0,0,0,1,1,1,0,0,Bourgogne-Franche-Comté,CENTRE,6
+1,0,1,1,0,1,1,0,1,0,1,1,0,Grand Est,Grand Est,8
+1,1,0,0,1,1,0,0,0,1,0,0,0,Île-de-France,Île-de-France,5
+1,0,0,0,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,1,0,0,1,1,0,1,1,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,9
+0,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,1,0,1,1,1,1,1,1,1,0,0,Occitanie,SUD,10
+0,1,1,0,0,0,0,0,1,0,1,1,0,Île-de-France,Île-de-France,5
+0,0,0,0,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,0,0,1,1,0,0,0,0,0,1,1,Bretagne,NORD-OUEST,5
+1,1,0,0,0,1,0,0,0,1,1,1,0,Occitanie,SUD,6
+0,1,0,0,1,0,1,0,0,1,0,0,0,Occitanie,SUD,4
+1,1,1,0,1,0,0,0,1,0,0,1,0,Grand Est,Grand Est,6
+1,1,0,0,1,0,0,0,0,0,1,0,0,Grand Est,Grand Est,4
+1,1,0,1,0,1,1,0,0,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,8
+1,0,0,0,1,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,0,0,0,0,1,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,0,0,0,1,0,0,0,0,1,0,Occitanie,SUD,4
+0,0,1,0,0,0,1,0,1,0,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,0,0,0,0,1,1,1,0,0,0,1,0,Grand Est,Grand Est,5
+1,1,0,1,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,3
+1,0,0,1,0,0,0,1,0,0,0,0,0,Grand Est,Grand Est,3
+1,1,1,0,0,0,0,0,1,1,0,0,0,Île-de-France,Île-de-France,5
+0,1,0,0,0,0,1,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,0,0,0,0,1,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+0,0,1,0,0,0,1,0,1,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,1,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,0,0,0,0,0,0,0,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,1,0,0,0,1,0,1,1,1,0,Occitanie,SUD,7
+0,1,0,0,1,1,0,0,0,1,0,1,0,Occitanie,SUD,5
+1,1,0,0,1,1,1,0,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+1,0,0,0,0,0,0,0,1,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,1,0,1,0,0,0,0,0,0,0,0,1,Normandie,NORD-OUEST,3
+1,1,0,0,0,1,1,1,0,0,0,0,0,Occitanie,SUD,5
+1,1,0,1,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,3
+1,0,0,1,1,0,0,0,0,0,0,1,0,Pays de la Loire,CENTRE,4
+0,1,1,0,1,1,0,0,1,1,1,0,0,Île-de-France,Île-de-France,7
+1,1,0,0,0,0,0,0,1,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,1,0,1,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+0,0,0,0,0,0,0,0,0,0,0,1,0,Occitanie,SUD,1
+1,1,0,0,0,0,0,0,0,0,1,0,0,Normandie,NORD-OUEST,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,1,0,0,0,1,1,1,1,1,0,0,Centre-Val de Loire,CENTRE,7
+1,1,0,1,0,1,0,0,0,1,1,0,0,Provence-Alpes-Côte d'Azur,SUD,6
+0,1,0,1,1,0,1,1,0,0,0,0,0,Île-de-France,Île-de-France,5
+0,0,1,0,0,0,0,0,1,1,1,0,0,Île-de-France,Île-de-France,4
+0,1,1,0,0,0,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+1,0,0,0,1,1,0,0,0,1,0,0,0,Bourgogne-Franche-Comté,CENTRE,4
+1,1,0,0,0,0,0,0,0,1,0,0,0,Grand Est,Grand Est,3
+1,0,1,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,4
+1,1,0,1,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,1,1,1,1,0,1,0,1,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,7
+1,1,0,0,0,0,1,0,0,1,1,0,0,Occitanie,SUD,5
+1,1,0,0,0,1,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,0,0,0,0,1,1,0,1,1,0,0,0,Hauts-de-France,NORD-OUEST,5
+1,1,0,1,1,0,0,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+1,1,0,0,1,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,3
+1,1,0,1,0,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,0,0,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,2
+0,1,1,1,0,0,1,1,0,0,0,0,1,Centre-Val de Loire,CENTRE,6
+1,1,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+1,1,0,0,0,1,0,0,0,0,1,0,0,Occitanie,SUD,4
+1,0,1,0,0,1,0,0,1,0,1,1,0,Grand Est,Grand Est,6
+1,0,0,0,0,1,0,0,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,1,1,0,0,0,0,0,1,0,0,Pays de la Loire,CENTRE,5
+1,1,1,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,4
+0,1,0,0,0,0,1,0,0,0,0,0,0,Occitanie,SUD,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,1
+1,1,1,0,0,0,0,0,1,0,0,1,0,Pays de la Loire,CENTRE,5
+0,1,0,0,1,0,1,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,1,0,0,0,0,1,0,0,0,Normandie,NORD-OUEST,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,1,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+0,0,1,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,0,0,0,0,0,0,0,0,1,0,0,Normandie,NORD-OUEST,3
+1,1,0,0,0,0,0,1,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,1,0,0,1,0,0,1,0,1,0,0,Normandie,NORD-OUEST,5
+1,1,0,0,0,0,0,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,1,0,0,0,0,0,0,0,1,1,0,Île-de-France,Île-de-France,3
+1,1,0,1,1,1,1,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,7
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,1,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,1,0,0,1,1,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+1,1,0,0,0,0,0,0,0,0,0,1,0,Normandie,NORD-OUEST,3
+1,1,1,1,0,1,1,0,1,0,1,1,0,Grand Est,Grand Est,9
+1,1,0,0,0,0,0,0,0,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,3
+1,1,1,0,0,0,1,0,1,0,0,0,0,Île-de-France,Île-de-France,5
+1,1,0,0,0,0,1,0,0,0,0,0,0,Bretagne,NORD-OUEST,3
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,0,0,0,1,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,1,1,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+0,1,0,0,0,0,0,1,0,0,0,0,0,Bretagne,NORD-OUEST,2
+0,1,0,0,0,0,0,1,1,0,0,0,0,Normandie,NORD-OUEST,3
+1,0,0,1,0,1,0,0,0,1,0,1,0,Hauts-de-France,NORD-OUEST,5
+0,1,0,0,0,1,0,0,1,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+0,1,0,1,0,0,1,1,0,0,0,1,0,Hauts-de-France,NORD-OUEST,5
+1,1,0,0,0,0,0,0,1,1,0,0,1,Hauts-de-France,NORD-OUEST,5
+1,1,1,1,1,1,1,1,1,1,1,1,0,Pays de la Loire,CENTRE,12
+1,1,0,1,0,1,1,0,0,0,0,1,0,Île-de-France,Île-de-France,6
+1,0,1,0,1,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,3
+1,1,1,0,0,1,0,0,1,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,8
+0,1,1,0,0,0,1,0,1,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+1,0,1,0,0,1,1,0,1,0,0,0,0,Pays de la Loire,CENTRE,5
+1,1,1,0,0,0,0,0,1,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,1,1,1,0,1,0,0,1,0,1,0,Hauts-de-France,NORD-OUEST,7
+1,0,1,0,1,1,1,0,1,1,0,0,0,Centre-Val de Loire,CENTRE,7
+1,0,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,0,0,0,0,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,0,0,0,0,0,0,0,0,0,0,0,1,Centre-Val de Loire,CENTRE,2
+1,1,1,0,0,1,1,0,1,1,0,0,0,Normandie,NORD-OUEST,7
+1,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,1,1,1,0,1,1,0,1,1,1,0,0,Bourgogne-Franche-Comté,CENTRE,8
+1,1,0,0,1,1,0,0,1,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,6
+0,1,0,1,1,0,0,0,1,1,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,1,0,1,1,0,1,0,0,1,0,1,0,Provence-Alpes-Côte d'Azur,SUD,7
+0,0,0,1,0,0,1,0,0,1,0,0,0,Île-de-France,Île-de-France,3
+1,0,1,0,0,0,0,0,1,0,1,0,0,Hauts-de-France,NORD-OUEST,4
+1,1,0,1,1,1,0,0,0,0,1,0,0,Pays de la Loire,CENTRE,6
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,1,0,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,2
+1,1,0,0,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,1,0,1,0,0,1,0,1,0,0,1,0,Île-de-France,Île-de-France,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,1,1,1,0,0,1,1,1,0,0,Provence-Alpes-Côte d'Azur,SUD,8
+1,1,0,0,1,0,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,4
+0,0,1,0,0,0,0,0,1,0,0,0,0,Occitanie,SUD,2
+1,1,0,0,0,0,0,0,0,0,1,1,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+0,1,1,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,0,0,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,1,1,0,0,0,1,0,0,0,Occitanie,SUD,4
+1,1,0,0,0,1,0,0,1,0,0,0,0,Bretagne,NORD-OUEST,4
+1,1,0,1,0,0,0,0,0,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,0,0,1,1,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+0,0,1,0,0,0,1,0,1,0,1,0,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,1,0,1,0,Bretagne,NORD-OUEST,3
+1,1,1,1,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,5
+1,0,1,1,1,1,1,0,1,1,1,1,0,Grand Est,Grand Est,10
+1,1,0,0,0,0,0,0,1,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,0,0,1,0,0,0,0,1,1,0,0,Normandie,NORD-OUEST,5
+0,1,0,0,0,1,0,0,0,1,1,1,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,0,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,0,1,0,0,0,0,0,1,0,1,0,0,Pays de la Loire,CENTRE,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+0,0,0,0,0,0,0,0,0,0,0,0,1,Centre-Val de Loire,CENTRE,1
+1,1,0,1,0,0,0,1,0,0,0,0,0,Occitanie,SUD,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+0,0,0,1,1,0,0,0,1,1,0,1,0,Île-de-France,Île-de-France,5
+0,0,1,0,0,0,0,0,1,1,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,0,0,1,0,0,0,0,1,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,1,0,0,0,0,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,1,1,1,1,1,0,1,1,1,1,0,Provence-Alpes-Côte d'Azur,SUD,11
+0,1,1,0,0,1,0,0,1,1,1,1,1,Bretagne,NORD-OUEST,8
+1,0,1,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,1,1,1,0,0,1,1,1,1,1,1,1,Île-de-France,Île-de-France,11
+1,1,0,1,0,0,1,0,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,0,1,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,0,1,1,1,0,0,0,1,0,0,0,Hauts-de-France,NORD-OUEST,6
+1,1,1,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,1,1,0,0,0,0,1,0,1,1,0,Hauts-de-France,NORD-OUEST,7
+1,1,0,1,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,3
+1,1,0,1,1,0,0,0,1,1,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,8
+1,1,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,2
+1,1,0,1,1,1,0,0,1,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,7
+0,0,0,0,0,0,0,0,0,0,1,0,1,Grand Est,Grand Est,2
+1,1,0,0,0,1,0,0,0,0,1,0,0,Occitanie,SUD,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,0,0,0,0,1,0,0,0,0,0,0,1,Bourgogne-Franche-Comté,CENTRE,3
+1,1,0,0,0,1,0,0,0,1,1,1,0,Île-de-France,Île-de-France,6
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,0,1,1,1,1,0,1,0,0,0,0,Normandie,NORD-OUEST,5
+0,1,0,1,0,0,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,3
+1,1,1,1,1,0,0,1,0,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,7
+1,1,0,0,1,1,0,0,0,1,0,1,0,Provence-Alpes-Côte d'Azur,SUD,6
+1,1,1,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,5
+1,1,0,1,1,0,0,0,0,0,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+0,1,0,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,1,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+1,1,1,0,0,1,0,0,1,1,1,0,0,Centre-Val de Loire,CENTRE,7
+1,1,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+0,1,0,0,1,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,0,1,0,0,0,1,0,0,0,0,Bretagne,NORD-OUEST,3
+1,1,0,0,0,0,0,0,0,0,0,0,1,Bourgogne-Franche-Comté,CENTRE,3
+0,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,0,1,0,1,0,0,1,1,0,0,Île-de-France,Île-de-France,5
+1,1,0,0,1,0,0,1,0,0,1,0,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,1,1,0,0,1,1,0,1,0,0,1,0,Normandie,NORD-OUEST,7
+1,1,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+1,0,0,1,1,0,0,0,0,0,0,1,0,Normandie,NORD-OUEST,4
+1,1,0,0,0,0,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,3
+0,0,0,0,0,0,0,0,0,1,1,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,0,1,0,0,0,0,0,1,1,1,0,Bretagne,NORD-OUEST,6
+0,0,1,1,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,0,1,0,0,0,0,0,0,0,0,1,Bourgogne-Franche-Comté,CENTRE,3
+1,1,0,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,1,0,0,0,0,0,0,0,1,0,0,0,Pays de la Loire,CENTRE,2
+0,0,0,0,0,0,0,0,0,0,1,0,0,Hauts-de-France,NORD-OUEST,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+1,1,0,0,0,1,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,0,0,1,0,0,1,1,1,1,0,Pays de la Loire,CENTRE,7
+1,1,0,0,0,0,0,0,0,1,1,0,0,Occitanie,SUD,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,0,0,0,0,0,0,0,1,0,0,Bretagne,NORD-OUEST,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,0,0,0,0,0,0,0,0,0,0,1,Normandie,NORD-OUEST,2
+1,1,0,0,0,1,1,0,1,1,1,0,0,Normandie,NORD-OUEST,7
+1,1,0,0,0,1,1,0,0,0,0,0,0,Grand Est,Grand Est,4
+1,1,1,0,0,0,0,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,1,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,3
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,1,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,0,1,1,1,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,3
+1,1,0,1,1,0,0,0,0,1,1,1,0,Hauts-de-France,NORD-OUEST,7
+1,1,1,0,0,0,1,0,1,0,0,0,0,Occitanie,SUD,5
+0,1,1,0,0,1,1,0,0,0,0,0,0,Bretagne,NORD-OUEST,4
+0,0,0,0,1,1,0,0,1,1,0,1,0,Provence-Alpes-Côte d'Azur,SUD,5
+0,0,0,1,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,2
+0,0,0,0,0,1,1,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,0,0,0,1,1,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,1,1,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,1,1,0,1,1,0,1,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,7
+0,1,1,1,0,0,1,1,0,0,0,0,0,Île-de-France,Île-de-France,5
+1,1,0,0,0,1,0,0,1,0,0,0,0,Occitanie,SUD,4
+1,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,3
+1,0,1,0,0,1,0,0,1,0,0,1,0,Pays de la Loire,CENTRE,5
+1,1,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,0,0,1,0,0,0,0,1,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,0,0,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,0,1,1,0,0,0,0,1,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,1,0,0,0,0,0,0,0,1,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,0,0,0,0,0,0,1,0,0,0,Grand Est,Grand Est,3
+0,1,0,1,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,0,0,0,0,0,0,0,1,1,0,0,0,Île-de-France,Île-de-France,2
+0,1,1,0,1,0,1,0,0,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,7
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,0,1,0,0,1,0,0,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,0,0,1,0,0,0,0,1,0,0,1,0,Occitanie,SUD,4
+0,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,1,0,0,0,1,0,1,0,0,1,0,Bretagne,NORD-OUEST,5
+1,1,1,1,0,0,0,0,1,1,1,1,0,Grand Est,Grand Est,8
+1,1,0,1,1,0,0,0,0,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,7
+1,1,0,1,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,0,1,0,0,0,0,0,1,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,1,0,0,0,1,0,0,0,0,0,1,0,Grand Est,Grand Est,4
+0,1,0,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,0,1,1,0,0,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+0,0,0,0,0,0,0,0,0,0,0,0,1,Bretagne,NORD-OUEST,1
+1,1,0,0,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,0,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,1,1,0,0,0,0,1,1,1,0,0,0,Île-de-France,Île-de-France,5
+1,0,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+1,1,0,0,0,1,0,0,1,0,0,1,0,Île-de-France,Île-de-France,5
+1,1,0,0,0,0,0,0,0,0,0,0,1,Occitanie,SUD,3
+1,1,0,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,1,0,0,0,0,0,0,0,0,0,0,1,Occitanie,SUD,3
+0,1,1,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,1,0,0,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,0,0,0,0,0,0,1,0,0,Grand Est,Grand Est,2
+1,1,1,0,0,0,1,1,1,0,0,1,0,Grand Est,Grand Est,7
+0,1,0,1,1,0,1,0,0,0,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,1,0,0,0,0,0,0,0,0,1,1,0,Bretagne,NORD-OUEST,4
+0,1,0,1,1,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+0,1,0,0,0,0,1,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+1,0,1,0,0,0,0,0,1,0,1,1,1,Île-de-France,Île-de-France,6
+1,1,0,1,1,0,0,0,0,0,0,1,0,Occitanie,SUD,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+0,0,1,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,0,0,0,1,0,0,1,0,0,1,0,Hauts-de-France,NORD-OUEST,4
+1,1,0,0,1,0,0,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,4
+1,1,0,1,1,0,0,0,0,0,0,0,0,Occitanie,SUD,4
+1,1,0,0,0,0,0,0,0,0,0,1,0,Occitanie,SUD,3
+1,1,0,1,1,0,0,0,0,0,1,1,0,Grand Est,Grand Est,6
+1,0,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,0,0,1,0,0,0,1,0,1,0,0,0,Grand Est,Grand Est,3
+1,1,1,0,0,0,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,4
+0,1,0,0,1,1,0,0,1,0,1,0,0,Bourgogne-Franche-Comté,CENTRE,5
+1,1,0,1,0,0,1,1,0,0,1,0,1,Île-de-France,Île-de-France,7
+1,1,0,0,0,1,0,0,0,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,1,1,1,1,1,1,1,1,1,1,1,0,Île-de-France,Île-de-France,12
+1,1,0,1,1,1,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+0,0,0,0,1,1,1,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,0,0,1,1,0,1,1,0,1,1,Grand Est,Grand Est,7
+1,1,0,1,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,0,0,0,0,0,1,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,0,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,0,0,0,0,1,1,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,0,0,0,0,1,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,0,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,0,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,1,0,0,0,0,0,1,1,1,0,0,Grand Est,Grand Est,5
+0,1,1,0,0,0,0,0,1,0,0,0,0,Occitanie,SUD,3
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,0,0,0,0,1,1,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,1,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,0,0,0,1,0,0,0,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,1,0,0,0,1,1,0,0,1,0,0,1,Bourgogne-Franche-Comté,CENTRE,6
+0,1,0,0,0,1,0,0,0,1,0,0,0,Pays de la Loire,CENTRE,3
+1,1,0,0,0,0,1,1,0,0,0,0,0,Bretagne,NORD-OUEST,4
+1,0,0,0,0,0,0,0,0,0,1,1,0,Grand Est,Grand Est,3
+0,1,0,0,0,0,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,0,1,0,1,1,0,0,0,0,0,0,Grand Est,Grand Est,5
+1,1,0,0,0,0,0,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,1,0,0,0,0,0,1,0,0,0,1,Provence-Alpes-Côte d'Azur,SUD,3
+0,1,0,0,0,0,1,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,0,0,1,1,1,0,0,1,1,1,1,0,Grand Est,Grand Est,8
+1,1,0,0,0,1,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,0,1,0,0,0,0,0,1,0,1,0,0,Pays de la Loire,CENTRE,4
+1,1,0,1,0,0,0,1,1,0,0,1,0,Bretagne,NORD-OUEST,6
+1,0,0,0,1,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,0,1,0,1,0,0,0,0,0,1,0,Occitanie,SUD,5
+0,0,1,0,0,1,0,0,1,0,0,1,0,Île-de-France,Île-de-France,4
+0,1,0,1,1,0,0,0,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,0,0,0,0,0,1,0,0,0,1,0,Pays de la Loire,CENTRE,2
+1,0,0,0,0,1,1,0,0,0,1,0,0,Île-de-France,Île-de-France,4
+0,0,0,0,0,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,0,0,0,0,0,1,0,0,0,1,0,Pays de la Loire,CENTRE,4
+0,0,1,0,0,1,1,0,0,0,1,1,0,Île-de-France,Île-de-France,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,0,0,0,1,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,1
+1,1,0,0,1,0,0,0,0,1,0,0,0,Grand Est,Grand Est,4
+0,1,0,0,0,0,1,0,0,0,0,1,0,Provence-Alpes-Côte d'Azur,SUD,3
+1,1,0,1,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,4
+1,1,0,0,1,1,0,0,0,1,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+1,0,0,1,1,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,1,0,0,0,1,0,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,0,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,1,1,1,1,1,1,1,1,1,1,0,Bretagne,NORD-OUEST,12
+0,1,0,0,0,0,0,1,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,0,0,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,0,0,0,0,1,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,1,0,1,0,0,1,0,1,0,0,1,1,Grand Est,Grand Est,6
+0,1,0,0,0,1,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,1,0,0,0,0,0,0,0,1,0,0,Pays de la Loire,CENTRE,2
+0,1,0,0,1,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,0,0,1,0,1,0,1,0,Grand Est,Grand Est,5
+0,1,0,1,1,0,0,0,0,1,0,0,0,Grand Est,Grand Est,4
+1,0,0,1,1,1,0,0,0,0,1,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+0,0,0,0,0,1,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,1,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,1,0,1,0,0,1,1,0,0,0,Grand Est,Grand Est,6
+1,1,0,1,1,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,5
+0,0,0,1,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,0,0,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,1,0,0,0,0,1,0,0,1,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+1,0,0,1,1,0,0,1,1,0,0,0,0,Île-de-France,Île-de-France,5
+1,1,0,0,1,0,0,0,0,0,1,1,0,Île-de-France,Île-de-France,5
+1,0,0,1,0,0,0,0,0,1,1,1,0,Hauts-de-France,NORD-OUEST,5
+0,1,0,0,0,1,1,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,0,0,0,0,1,0,0,0,0,0,0,1,Pays de la Loire,CENTRE,2
+0,1,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,2
+1,1,0,1,1,0,0,1,0,0,1,0,0,Grand Est,Grand Est,6
+0,1,0,1,0,1,1,0,0,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,1,1,1,1,1,1,1,1,1,1,1,1,Grand Est,Grand Est,12
+1,1,0,0,0,1,0,0,0,0,0,0,0,Occitanie,SUD,3
+0,1,1,1,1,0,1,1,0,1,0,0,0,Pays de la Loire,CENTRE,7
+0,0,1,0,0,0,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,2
+1,0,0,1,0,0,0,0,0,1,1,0,1,Bourgogne-Franche-Comté,CENTRE,5
+0,1,0,0,1,0,0,1,0,1,1,1,0,Centre-Val de Loire,CENTRE,6
+0,0,1,0,0,0,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,1,0,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,1,0,0,0,1,0,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,4
+1,0,0,1,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,0,0,0,0,0,1,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,1,0,0,0,0,0,0,1,1,0,1,0,Pays de la Loire,CENTRE,5
+0,1,1,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,0,1,0,0,0,0,0,1,1,1,1,0,Bretagne,NORD-OUEST,6
+0,1,1,1,1,1,0,1,1,0,1,1,0,Île-de-France,Île-de-France,9
+1,1,0,1,0,0,1,0,1,1,1,1,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,9
+0,0,1,0,0,1,1,0,1,0,0,0,0,Pays de la Loire,CENTRE,4
+1,1,0,1,0,0,0,0,0,0,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,0,0,1,0,1,0,0,0,0,0,1,0,Île-de-France,Île-de-France,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,0,0,1,0,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,1,0,0,1,0,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,5
+0,1,0,0,0,0,1,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,0,0,0,0,0,0,0,1,1,1,0,0,Bretagne,NORD-OUEST,3
+0,0,1,0,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,1,0,1,0,0,0,0,1,0,0,1,Grand Est,Grand Est,5
+1,1,1,0,0,1,1,0,1,0,0,0,0,Pays de la Loire,CENTRE,6
+1,1,1,0,0,1,1,0,1,0,0,0,0,Bretagne,NORD-OUEST,6
+0,1,0,0,0,0,0,1,0,0,0,1,0,Île-de-France,Île-de-France,3
+1,0,0,1,1,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,1,0,0,1,0,0,0,0,Pays de la Loire,CENTRE,3
+1,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,1
+1,1,1,0,0,1,0,0,0,0,1,0,0,Occitanie,SUD,5
+1,1,0,0,0,0,0,0,0,0,0,1,0,Bretagne,NORD-OUEST,3
+1,0,1,0,0,1,1,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,0,1,1,0,0,0,1,0,1,1,0,Île-de-France,Île-de-France,7
+0,0,0,0,0,0,1,0,0,0,0,0,0,Bretagne,NORD-OUEST,1
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,1,0,0,0,0,0,1,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,0,0,1,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,1,1,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,1,1,0,1,1,0,0,1,1,1,1,0,Île-de-France,Île-de-France,9
+0,0,0,0,0,0,1,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,0,1,0,0,1,0,0,1,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,1,1,1,0,1,0,0,1,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,7
+1,0,0,0,0,1,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,1,0,0,1,0,0,1,1,1,1,0,Grand Est,Grand Est,8
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,3
+1,0,0,0,0,1,0,0,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,1,1,0,0,1,0,0,1,0,0,Bretagne,NORD-OUEST,6
+0,1,1,0,0,0,0,0,1,0,0,0,0,Bretagne,NORD-OUEST,3
+0,0,1,0,0,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,0,1,0,0,0,0,0,1,0,0,1,0,Pays de la Loire,CENTRE,4
+0,0,1,0,0,0,0,0,1,0,0,0,0,Occitanie,SUD,2
+0,1,1,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,0,0,0,0,0,0,0,0,0,0,1,Bretagne,NORD-OUEST,2
+1,0,0,0,0,1,0,0,1,0,0,1,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,0,1,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,0,0,0,0,0,1,1,0,0,0,0,Pays de la Loire,CENTRE,4
+0,1,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,3
+0,1,0,0,0,0,0,1,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,1,0,0,0,0,0,1,0,0,1,0,Pays de la Loire,CENTRE,5
+1,1,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+0,1,0,1,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,0,1,0,0,0,0,0,0,0,1,1,Pays de la Loire,CENTRE,4
+1,1,0,0,0,1,1,0,1,0,0,0,0,Île-de-France,Île-de-France,5
+0,0,0,0,0,1,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,0,1,0,0,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,0,1,0,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,1,0,0,0,0,0,1,0,1,0,0,Pays de la Loire,CENTRE,4
+1,1,1,0,1,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,1,0,0,0,1,0,0,1,0,0,1,0,Pays de la Loire,CENTRE,4
+1,1,0,0,0,0,0,0,0,0,1,1,0,Bretagne,NORD-OUEST,4
+1,0,0,1,0,1,1,0,1,1,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,7
+1,0,0,0,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,1,0,0,1,1,0,0,1,0,0,Bretagne,NORD-OUEST,6
+1,1,0,0,0,0,1,1,0,0,0,1,1,Bretagne,NORD-OUEST,6
+1,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,1,0,0,0,0,0,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,2
+1,1,1,0,0,1,0,0,1,1,1,0,0,Île-de-France,Île-de-France,7
+1,1,0,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,1,1,0,0,0,0,0,1,1,1,1,1,Île-de-France,Île-de-France,7
+0,1,0,0,0,0,1,1,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,0,0,0,0,0,0,1,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,0,0,0,0,0,1,0,0,0,0,1,Bourgogne-Franche-Comté,CENTRE,3
+0,1,1,0,0,0,0,0,1,0,1,1,0,Provence-Alpes-Côte d'Azur,SUD,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,1,0,0,0,0,0,0,1,0,0,0,0,Occitanie,SUD,3
+1,0,0,0,0,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,0,0,1,0,1,0,1,0,0,0,0,0,Provence-Alpes-Côte d'Azur,SUD,3
+0,1,1,0,0,1,0,0,0,0,0,0,0,Grand Est,Grand Est,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,1,0,0,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,3
+1,0,1,0,0,1,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,0,0,0,1,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,0,0,1,1,0,0,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,1,0,0,1,1,0,1,0,0,0,0,Île-de-France,Île-de-France,6
+1,1,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,1,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,0,1,1,1,1,1,0,1,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,6
+0,0,0,1,0,0,0,0,1,1,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,0,0,0,0,0,0,1,0,0,0,0,0,Grand Est,Grand Est,1
+0,0,0,0,0,1,0,0,0,1,0,0,0,Grand Est,Grand Est,2
+1,1,1,0,1,0,0,0,1,1,0,1,0,Île-de-France,Île-de-France,7
+0,1,1,0,0,1,1,1,1,0,0,0,0,Grand Est,Grand Est,6
+1,1,1,0,0,0,0,0,1,0,1,0,0,Île-de-France,Île-de-France,5
+1,0,0,0,0,0,0,0,0,0,0,0,1,Grand Est,Grand Est,2
+1,1,0,0,0,0,0,0,0,0,0,1,0,Grand Est,Grand Est,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,0,0,0,1,0,0,0,0,0,1,0,Occitanie,SUD,3
+1,0,0,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,1,0,0,0,0,0,0,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,1,0,0,1,1,1,0,0,0,1,0,Grand Est,Grand Est,6
+0,1,0,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,1,0,0,1,1,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,1,0,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,1,0,0,1,0,0,1,0,1,0,0,Île-de-France,Île-de-France,5
+0,1,0,0,0,1,1,0,1,1,0,0,0,Grand Est,Grand Est,5
+1,1,1,0,0,0,0,0,0,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+1,0,0,0,0,1,1,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+0,1,0,1,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,0,0,1,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,1,1,1,1,0,0,1,0,1,1,Grand Est,Grand Est,9
+1,0,1,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,3
+1,1,1,0,0,1,0,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,5
+1,1,1,0,0,1,1,1,1,1,1,1,0,Bourgogne-Franche-Comté,CENTRE,10
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,4
+1,0,0,1,1,0,0,0,0,1,1,1,0,Grand Est,Grand Est,6
+1,1,0,0,1,0,1,1,0,0,0,1,0,Grand Est,Grand Est,6
+0,1,1,1,1,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+0,1,0,0,0,0,1,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,1,0,0,0,0,0,1,0,0,1,0,Île-de-France,Île-de-France,5
+0,1,0,1,0,0,0,0,1,0,1,0,0,Île-de-France,Île-de-France,4
+0,1,0,0,0,1,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,1,1,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,5
+0,0,0,0,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,0,1,1,1,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,6
+0,1,0,1,0,0,0,1,0,1,0,0,0,Occitanie,SUD,4
+1,0,0,0,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,0,0,0,0,1,0,0,0,0,0,Grand Est,Grand Est,4
+1,1,0,0,0,0,0,0,1,0,0,1,0,Grand Est,Grand Est,4
+1,0,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,0,1,0,0,0,0,0,1,1,0,0,0,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,0,0,0,0,0,0,0,0,0,1,0,0,Île-de-France,Île-de-France,2
+1,1,1,0,0,1,0,0,0,1,0,0,0,Grand Est,Grand Est,5
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,1,0,0,0,1,0,0,0,0,0,Grand Est,Grand Est,4
+1,1,0,0,0,1,1,1,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+0,0,0,0,0,0,0,0,0,0,1,1,0,Île-de-France,Île-de-France,2
+0,0,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,1
+0,1,0,1,1,0,1,0,0,0,0,1,0,Île-de-France,Île-de-France,5
+0,1,0,1,0,0,1,0,0,0,1,1,0,Île-de-France,Île-de-France,5
+1,1,1,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,0,0,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,0,1,0,0,0,0,0,1,0,0,1,0,Île-de-France,Île-de-France,3
+1,0,0,0,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,1,0,1,0,0,1,0,1,1,0,Île-de-France,Île-de-France,7
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,0,0,0,0,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,2
+1,0,0,0,0,1,0,0,1,0,0,0,1,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,1,0,0,0,1,0,Grand Est,Grand Est,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,0,0,1,0,0,1,0,1,1,1,0,Hauts-de-France,NORD-OUEST,7
+1,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,0,0,0,0,0,0,0,0,0,0,1,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,1,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,1,0,0,0,1,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,0,0,0,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,0,0,1,0,0,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,0,1,0,0,0,0,0,1,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,0,1,0,0,0,0,0,0,0,Occitanie,SUD,3
+0,0,0,0,0,0,0,0,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+0,0,0,0,0,1,0,0,0,0,1,0,0,Centre-Val de Loire,CENTRE,2
+1,1,0,1,0,1,1,1,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,7
+1,1,1,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+0,1,1,0,1,0,0,0,1,1,1,1,0,Île-de-France,Île-de-France,7
+0,0,0,1,0,0,0,1,0,0,0,1,0,Île-de-France,Île-de-France,3
+0,0,1,0,0,0,0,0,1,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,0,0,0,0,0,1,0,0,0,0,0,1,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+0,1,0,0,0,1,1,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,0,0,0,1,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,1,0,0,0,0,0,0,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,1,1,0,1,0,0,1,0,1,1,0,Occitanie,SUD,8
+0,0,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,1,0,1,1,1,0,1,1,1,1,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,11
+1,1,0,0,0,0,0,0,0,0,1,1,0,Île-de-France,Île-de-France,4
+0,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,1
+1,0,0,0,0,0,0,1,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,0,0,0,1,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+1,1,0,0,1,0,0,0,1,1,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,0,1,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,3
+0,1,0,1,1,0,0,1,0,0,0,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,5
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,0,1,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,1,0,0,0,0,1,0,0,0,0,0,1,Île-de-France,Île-de-France,4
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,1,0,1,0,0,1,0,0,0,1,1,0,Île-de-France,Île-de-France,6
+1,1,0,0,0,1,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,0,0,0,0,0,0,0,0,1,0,Île-de-France,Île-de-France,2
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+0,0,1,0,0,1,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,1,0,0,0,1,0,0,0,0,0,Île-de-France,Île-de-France,3
+0,0,1,0,0,1,0,0,1,1,1,1,0,Occitanie,SUD,6
+1,0,1,0,0,0,1,0,0,0,0,1,0,Hauts-de-France,NORD-OUEST,4
+1,1,0,0,0,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,0,1,0,0,1,0,0,1,0,0,0,0,Grand Est,Grand Est,3
+1,0,0,0,0,0,0,0,1,1,1,0,1,Île-de-France,Île-de-France,5
+1,0,0,0,0,0,0,0,0,0,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,1,1,0,0,1,0,0,1,1,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,7
+1,0,0,0,0,0,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+0,1,0,0,1,1,0,0,0,0,1,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,4
+1,1,0,0,0,1,1,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,1,0,0,0,1,1,1,1,1,1,1,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,9
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,0,0,1,0,0,1,0,0,0,0,Grand Est,Grand Est,5
+1,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,2
+1,1,1,0,0,0,1,0,1,1,1,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,7
+1,0,1,0,0,0,0,0,1,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,1,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,0,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+1,1,0,0,0,1,1,0,1,0,0,0,0,Grand Est,Grand Est,5
+1,0,0,0,0,0,0,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,1
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,1,0,1,1,1,0,1,1,1,0,0,0,Île-de-France,Île-de-France,8
+1,1,1,0,0,1,0,0,1,1,0,0,0,Île-de-France,Île-de-France,6
+1,0,1,1,1,0,1,1,0,0,1,0,0,Grand Est,Grand Est,7
+1,1,0,0,0,0,0,0,1,1,0,0,0,Hauts-de-France,NORD-OUEST,4
+1,0,1,0,0,1,1,0,1,1,1,1,0,Bourgogne-Franche-Comté,CENTRE,8
+0,1,0,0,0,0,0,0,1,0,1,1,0,Provence-Alpes-Côte d'Azur,SUD,4
+0,1,0,0,0,0,0,1,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+0,0,0,0,0,1,1,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,3
+0,1,0,0,0,0,0,1,0,0,0,0,0,Grand Est,Grand Est,2
+1,0,0,0,0,0,0,0,1,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,1,1,1,1,1,0,0,0,0,0,1,0,Grand Est,Grand Est,7
+0,1,0,1,1,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,0,0,1,1,0,0,0,0,0,0,1,0,Occitanie,SUD,4
+1,0,1,0,1,0,0,0,1,1,1,1,0,Occitanie,SUD,7
+1,1,0,0,0,1,0,0,1,0,0,0,0,Île-de-France,Île-de-France,4
+1,1,1,0,0,1,0,0,1,1,1,1,0,Occitanie,SUD,8
+1,0,1,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,4
+1,1,0,0,0,0,0,1,0,1,0,0,0,Île-de-France,Île-de-France,4
+1,1,0,0,0,1,0,0,1,0,0,1,0,Île-de-France,Île-de-France,5
+1,1,0,0,0,1,0,1,0,0,1,0,1,Hauts-de-France,NORD-OUEST,6
+0,0,0,1,0,1,0,1,0,1,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,5
+1,1,1,1,1,1,0,1,1,1,1,1,0,Hauts-de-France,NORD-OUEST,11
+0,1,1,0,0,1,0,0,1,0,1,0,0,Grand Est,Grand Est,5
+1,0,1,0,0,1,0,0,1,0,1,0,0,Hauts-de-France,NORD-OUEST,5
+0,1,0,0,0,0,0,0,0,0,0,0,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,0,1,0,0,1,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+1,0,1,0,0,1,0,0,1,0,0,0,0,Hauts-de-France,NORD-OUEST,4
+1,0,1,0,0,0,0,0,1,0,0,0,1,Hauts-de-France,NORD-OUEST,4
+0,1,0,1,1,1,1,1,0,1,0,1,1,Hauts-de-France,NORD-OUEST,9
+0,0,0,0,0,0,0,0,0,0,0,1,0,Nouvelle-Aquitaine,Nouvelle-Aquitaine,1
+1,1,0,1,0,1,0,0,1,0,1,1,0,Hauts-de-France,NORD-OUEST,7
+1,1,0,0,0,1,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,0,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,0,1,0,0,0,0,0,0,0,0,0,Occitanie,SUD,3
+1,1,0,0,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,1,0,0,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,1,1,0,0,0,0,0,1,1,0,1,0,Île-de-France,Île-de-France,6
+0,0,0,0,0,0,0,0,0,0,0,0,1,Hauts-de-France,NORD-OUEST,1
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Occitanie,SUD,2
+1,1,0,0,0,0,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,2
+1,1,1,0,0,0,0,0,1,0,0,0,0,Grand Est,Grand Est,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,2
+0,0,1,0,0,0,0,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+0,0,0,0,0,0,0,1,0,0,0,0,0,Hauts-de-France,NORD-OUEST,1
+1,1,0,0,0,1,0,0,0,0,1,0,0,Occitanie,SUD,4
+1,1,0,1,0,0,0,0,0,0,0,1,0,Bourgogne-Franche-Comté,CENTRE,4
+0,0,0,0,0,0,0,0,1,0,0,1,0,Hauts-de-France,NORD-OUEST,2
+0,0,0,0,1,0,0,0,0,0,0,0,0,Occitanie,SUD,1
+0,1,0,0,0,1,1,0,0,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,3
+0,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Grand Est,Grand Est,1
+1,0,0,0,0,0,0,0,0,0,0,0,1,Nouvelle-Aquitaine,Nouvelle-Aquitaine,2
+1,0,1,1,1,0,0,0,1,0,1,0,0,Île-de-France,Île-de-France,6
+0,1,0,1,0,1,1,0,0,0,0,1,1,Bourgogne-Franche-Comté,CENTRE,6
+1,0,0,1,0,1,0,0,0,0,0,0,0,Hauts-de-France,NORD-OUEST,3
+1,0,0,0,0,0,0,0,0,0,0,1,0,Normandie,NORD-OUEST,2
+1,0,0,0,0,0,0,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,2
+1,1,1,0,0,0,0,0,0,0,0,0,0,Normandie,NORD-OUEST,3
+1,0,1,0,1,1,0,0,0,0,1,1,0,Occitanie,SUD,6
+1,1,0,1,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,3
+1,0,1,0,0,1,0,0,1,0,0,0,0,Bourgogne-Franche-Comté,CENTRE,4
+1,1,0,1,0,1,1,0,1,1,1,1,0,Normandie,NORD-OUEST,9
+0,0,0,0,0,1,0,0,0,0,0,0,0,Centre-Val de Loire,CENTRE,1
+0,0,1,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,0,1,0,0,0,0,0,0,0,0,1,Occitanie,SUD,4
+1,1,0,0,0,0,0,0,0,0,0,0,0,Bretagne,NORD-OUEST,2
+1,0,0,0,0,0,0,0,0,0,0,0,0,Pays de la Loire,CENTRE,1
+0,0,0,0,0,0,0,0,0,0,0,1,0,Grand Est,Grand Est,1
+0,1,0,0,0,0,0,0,0,0,0,0,0,Île-de-France,Île-de-France,1
+1,1,1,1,0,0,0,0,0,1,0,0,0,Île-de-France,Île-de-France,5
+1,1,1,0,0,0,0,0,1,0,0,0,0,Normandie,NORD-OUEST,4
+0,1,0,0,0,0,0,0,0,0,0,0,0,Auvergne-Rhône-Alpes,Auvergne-Rhône-Alpes,1
+1,0,1,0,0,1,0,0,1,0,0,0,0,Occitanie,SUD,4
