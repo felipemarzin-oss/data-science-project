@@ -20,8 +20,8 @@ C'est une question de classification. La variable à prédire (la cible) est la 
 Nous avons utilisé l'enquête **HADOPI 2020** sur les pratiques musicales des Français.
 
 - Lien vers les données : `https://www.data.gouv.fr/datasets/pratiques-decoute-de-musique-en-ligne-2020`
-- Les fichiers bruts sont rangés dans `documentation/` (`hadopi-2020-musique-data.csv`, `.ods`)
-- Un descriptif des jeux de données est disponible dans `documentation/datasets.md`
+- Les fichiers bruts sont rangés dans `Dataset/` (`hadopi-2020-musique-data.csv`, `.ods`)
+- Un descriptif des jeux de données est disponible dans `documentation/datasets.md` 
 
 Les données ont été téléchargées directement depuis le site. Il n'y a donc pas de script de collecte.
 
@@ -45,14 +45,15 @@ Les 13 genres : Variété française, Pop/Rock, Rap/Hip-Hop, Classique, Jazz, Da
 data-science-project/
 ├── Dataset/
 │   └── dataset_musique_region.csv     # données nettoyées, prêtes pour la modélisation
+    └── dataset_musique_region_transforme.csv   # données nettoyées, et regroupé par région 
 ├── documentation/                     # données brutes + descriptif
 ├── notebooks/
 │   ├── exploration.ipynb              # première découverte des données
 │   ├── nettoyage.ipynb                # nettoyage
 │   ├── transformation.ipynb           # transformations / encodage
-│   ├── nettoyage_transformation.ipynb # version regroupée nettoyage + transformation
+│   
 │   └── A_COMPLETER_FICHIER_FINAL.ipynb # entraînement et évaluation des modèles
-├── scripts/                           # scripts .py
+├── scripts/                           # scripts .py ???? 
 ├── requirements.txt
 └── README.md
 ```
@@ -70,20 +71,20 @@ L'idée : comprendre ce qu'on a entre les mains avant de toucher à quoi que ce 
 Ce qu'on a regardé :
 - la taille du jeu (`.shape`), les types de colonnes (`.info()`), les statistiques (`.describe()`)
 - les valeurs manquantes (`.isna().sum()`)
-- le sens de chaque colonne, y compris la colonne de **poids** de l'enquête
-- quelles colonnes servent vraiment notre problématique
+- le sens de chaque colonne
+- quelles colonnes servent vraiment dans notre problématique
 
 **Répartition des répondants par région**
 
 ![Répartition des répondants par région](images/repartition_regions.png)
 
-On voit tout de suite un déséquilibre. L'Île-de-France compte environ 440 répondants, alors que le Centre-Val de Loire en a moins de 100. Ce point compte pour la suite : un modèle pourrait avoir tendance à prédire « Île-de-France » par défaut.
+On voit tout de suite, qu'il y a un déséquilibre. L'Île-de-France compte environ 440 réponses, alors que le Centre-Val de Loire en a moins de 100. Ce point compte pour la suite : car un modèle peut avoir tendance à prédire « Île-de-France » par défaut.
 
 **Part des personnes qui écoutent chaque genre, par région**
 
 ![Heatmap genres par région](images/heatmap_genres_regions.png)
 
-C'est le graphique le plus parlant du projet. Les couleurs sont presque identiques d'une ligne à l'autre. La Variété française et la Pop/Rock dominent partout, le Métal et les « Autres genres » sont faibles partout. Autrement dit, **les goûts musicaux se ressemblent beaucoup d'une région à l'autre**. Ça annonce déjà que la prédiction sera difficile.
+C'est le graphique le plus interessant. Les couleurs sont presque identiques d'une ligne à l'autre. La Variété française et la Pop/Rock dominent partout, le Métal et les « Autres genres » sont faibles partout. Autrement dit, **les goûts musicaux se ressemblent beaucoup d'une région à l'autre**. Ça annonce déjà que la prédiction sera difficile.
 
 ### Étape 2 – Nettoyer (`nettoyage.ipynb`)
 
