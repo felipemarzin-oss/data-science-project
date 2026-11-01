@@ -102,7 +102,7 @@ On a testé les deux méthodes.
 
 Choix retenu : **suppression** des lignes incomplètes. Les deux méthodes donnaient le même nombre de lignes au final (1 986), donc la suppression était la plus simple et n'introduisait pas de valeurs inventées.
 
-![Vérification méthode valeurs manquantes](images/verif_valeurs_manquantes.png)
+![Vérification méthode valeurs manquantes](images/valeurs_manquantes.png)
 
 ### Étape 3 – Transformer (`transformation.ipynb`)
 
