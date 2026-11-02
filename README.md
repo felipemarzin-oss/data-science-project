@@ -131,7 +131,7 @@ Le fichier final est exporté dans `Dataset/dataset_musique_region.csv`.
 | Modèle | Accuracy | F1-score | Recall |
 |---|---|---|---|
 | Random Forest | `0.249` | `0.148` | `[À COMPLÉTER]` |
-| Régression logistique | `[À COMPLÉTER]` | `[À COMPLÉTER]` | `[À COMPLÉTER]` |
+| Régression logistique | `0.239` | `0.148` | `[À COMPLÉTER]` |
 | MLP (réseau de neurones) | `[À COMPLÉTER]` | `[À COMPLÉTER]` | `[À COMPLÉTER]` |
 | K-Means | `0.214` | `0.029` | `[À COMPLÉTER]` |
 | Hasard (référence, 1 chance sur 12) | ≈ 8 % | – | – |
