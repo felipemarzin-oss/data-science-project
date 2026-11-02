@@ -132,7 +132,7 @@ Le fichier final est exporté dans `Dataset/dataset_musique_region.csv`.
 |---|---|---|---|
 | Random Forest | `0.249` | `0.148` | `[À COMPLÉTER]` |
 | Régression logistique | `0.239` | `0.148` | `[À COMPLÉTER]` |
-| MLP (réseau de neurones) | `[À COMPLÉTER]` | `[À COMPLÉTER]` | `[À COMPLÉTER]` |
+| MLP (réseau de neurones) | `0.176` | `0.162` | `[À COMPLÉTER]` |
 | K-Means | `0.214` | `0.029` | `[À COMPLÉTER]` |
 | Hasard (référence, 1 chance sur 12) | ≈ 8 % | – | – |
 
