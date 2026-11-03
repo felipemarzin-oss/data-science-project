@@ -129,7 +129,7 @@ Le fichier final est exporté dans `Dataset/dataset_musique_region.csv`.
 ## 5. Résultats
 
 | Modèle | Accuracy | F1-score | 
-|---|---|---|---|
+|---|---|---|
 | Random Forest(12 regions) | `0.191` | `0.051`  |
 | Random Forest ( 7 regions | `0.249` | `0.148` | 
 | Régression logistique | `0.239` | `0.148` | 
