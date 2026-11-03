@@ -128,13 +128,13 @@ Le fichier final est exporté dans `Dataset/dataset_musique_region.csv`.
 
 ## 5. Résultats
 
-| Modèle | Accuracy | F1-score | Recall |
+| Modèle | Accuracy | F1-score | 
 |---|---|---|---|
-| Random Forest(12 regions) | `0.191` | `0.051` | `[À COMPLÉTER]` |
-| Random Forest ( 7 regions | `0.249` | `0.148` | `[À COMPLÉTER]` |
-| Régression logistique | `0.239` | `0.148` | `[À COMPLÉTER]` |
-| MLP (réseau de neurones) | `0.176` | `0.162` | `[À COMPLÉTER]` |
-| K-Means | `0.214` | `0.029` | `[À COMPLÉTER]` |
+| Random Forest(12 regions) | `0.191` | `0.051`  |
+| Random Forest ( 7 regions | `0.249` | `0.148` | 
+| Régression logistique | `0.239` | `0.148` | 
+| MLP (réseau de neurones) | `0.176` | `0.162` |
+| K-Means | `0.214` | `0.029` | 
 | Hasard (référence, 1 chance sur 12) | ≈ 8 % | – | – |
 
 ![Matrice de confusion](images/matrice_confusion.png)
