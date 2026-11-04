@@ -17,7 +17,7 @@ C'est une question de classification. La variable à prédire (la cible) est la 
 
 ### Source
 
-Nous avons utilisé l'enquête **HADOPI 2020** sur les pratiques musicales des Français.
+Nous utilisons l'enquête **HADOPI 2020** sur les pratiques musicales des Français.
 
 - Lien vers les données : `https://www.data.gouv.fr/datasets/pratiques-decoute-de-musique-en-ligne-2020`
 - Les fichiers bruts sont rangés dans `Dataset/` (`hadopi-2020-musique-data.csv`, `.ods`)
@@ -31,9 +31,10 @@ Après nettoyage, le jeu de données final (`Dataset/dataset_musique_region.csv`
 
 | Élément | Valeur |
 |---|---|
-| Nombre de personnes | 1 986 |
-| Variables explicatives | 13 genres musicaux (0 = n'écoute pas, 1 = écoute) |
-| Variable cible | la région (12 régions) |
+| Personnes | 1 986 |
+| Variables explicatives | 13 genres musicaux |
+| Variable à prédire | 12 régions |
+| Codage des genres | 0 = non sélectionné, 1 = sélectionné |
 
 Les 13 genres : Variété française, Pop/Rock, Rap/Hip-Hop, Classique, Jazz, Dance, Électronique, Métal, R&B, Soul, Reggae, Musiques du monde, Autres genres.
 
@@ -41,19 +42,19 @@ Les 13 genres : Variété française, Pop/Rock, Rap/Hip-Hop, Classique, Jazz, Da
 
 ## 3. Organisation du dépôt
 
-```
+```text
 data-science-project/
 ├── Dataset/
-│   └── dataset_musique_region.csv     # données nettoyées, prêtes pour la modélisation
-    └── dataset_musique_region_transforme.csv   # données nettoyées, et regroupé par région 
-├── documentation/                     # données brutes + descriptif
+│   ├── hadopi-2020-musique-data.ods
+│   ├── dataset_musique_region.csv
+│   └── dataset_musique_region_transforme.csv
+├── documentation/
+│   └── datasets.md
 ├── notebooks/
-│   ├── exploration.ipynb              # première découverte des données
-│   ├── nettoyage.ipynb                # nettoyage
-│   ├── transformation.ipynb           # transformations / encodage
-│   
-│   └── A_COMPLETER_FICHIER_FINAL.ipynb # entraînement et évaluation des modèles
-├── scripts/                           # scripts .py ???? 
+│   ├── exploration.ipynb
+│   ├── nettoyage.ipynb
+│   ├── transformation.ipynb
+│   └── training_eval.ipynb
 ├── requirements.txt
 └── README.md
 ```
@@ -69,10 +70,11 @@ On a suivi quatre étapes, dans cet ordre.
 L'idée : comprendre ce qu'on a entre les mains avant de toucher à quoi que ce soit.
 
 Ce qu'on a regardé :
-- la taille du jeu (`.shape`), les types de colonnes (`.info()`), les statistiques (`.describe()`)
-- les valeurs manquantes (`.isna().sum()`)
-- le sens de chaque colonne
-- quelles colonnes servent vraiment dans notre problématique
+
+- les colonnes, les valeurs manquantes et les doublons ;
+- la répartition des personnes selon les régions ;
+- les genres musicaux les plus écoutés ;
+- les différences de goûts musicaux entre les régions.
 
 **Répartition des répondants par région**
 
@@ -91,10 +93,14 @@ C'est le graphique le plus interessant. Les couleurs sont presque identiques d'u
 Le jeu fait environ 2 200 lignes, donc **pandas** suffit largement.
 
 Ce qu'on a fait :
-- sélection des colonnes utiles (genres musicaux + région)
-- gestion des doublons
-- gestion des valeurs manquantes
-- renommage des colonnes pour qu'elles soient lisibles
+
+- garder les 13 genres musicaux et la région ;
+- les doublons et les réponses manquantes ;
+- suppression et le remplacement des valeurs manquantes ;
+- retirer les personnes sans profil musical exploitable ;
+- coder les genres en 0 et 1 ;
+- renommer les colonnes et vérifions les données.
+
 
 **Valeurs manquantes : suppression ou remplacement ?**
 
@@ -106,36 +112,46 @@ Choix retenu : **suppression** des lignes incomplètes. Les deux méthodes donna
 
 ### Étape 3 – Transformer (`transformation.ipynb`)
 
+Nous créons deux nouvelles façons de regrouper les régions :
+
 - **Encodage des genres** : chaque genre devient une colonne binaire (0/1)
 - **Encodage de la région** : la région est transformée en étiquette numérique pour les modèles
 - `[normalisation]`
 
 Le fichier final est exporté dans `Dataset/dataset_musique_region.csv`.
 
-### Étape 4 – Prédiction & Entraînement  (`A_COMPLETER_FICHIER_FINAL.ipynb`)
+### Étape 4 – Prédiction & Entraînement  
+Nous comparons plusieurs méthodes :
 
-1. Séparation du jeu en **train** et **test** `[ex. 80 % / 20 %]`
-2. Entraînement de plusieurs modèles :
-   - **Random Forest**
-   - **Régression logistique**
-   - **K-Means** (non supervisé, pour voir si des groupes de goûts se dessinent)
-3. Comparaison avec plusieurs métriques :
-   - **Accuracy** : part de bonnes prédictions
-   - **Précision / Recall / F1-score** : plus fiables que l'accuracy quand les classes sont déséquilibrées
-   - **Matrice de confusion** : pour voir quelles régions sont confondues entre elles
+- **Random Forest** : sur les 12 régions et sur les 7 groupes ;
+- **K-Means** : pour rechercher des profils musicaux, puis les comparer aux régions ;
+- **Régression logistique** : sur les 7 groupes ;
+- **Deep Learning** : deux réseaux de neurones, l'un sur les 12 régions et l'autre sur les 7 groupes.
+
+Nous utilisons une séparation **80 % entraînement / 20 % test** avec `random_state=42`. Les réseaux de neurones reprennent les mêmes personnes en entraînement et en test que les modèles classiques pour la cible correspondante.
+
+Pour évaluer les résultats, nous utilisons :
+
+- **Accuracy** : proportion de bonnes prédictions ;
+- **F1 macro** : score qui donne la même importance à chaque région ou groupe ;
+- **Matrices de confusion** : pour visualiser les erreurs ;
+- **ARI et NMI** : pour comparer les groupes de K-Means aux régions.
+
 
 ---
 
 ## 5. Résultats
 
-| Modèle | Accuracy | F1-score | 
-|---|---|---|
-| Random Forest(12 regions) | `0.191` | `0.051`  |
-| Random Forest ( 7 regions | `0.249` | `0.148` | 
-| Régression logistique | `0.239` | `0.148` | 
-| MLP (réseau de neurones) | `0.176` | `0.162` |
-| K-Means | `0.214` | `0.029` | 
-| Hasard (référence, 1 chance sur 12) | ≈ 8 % | – | – |
+Résultats enregistrés dans `training_eval.ipynb` :
+
+| Modèle | Accuracy | F1 macro |
+|---|---:|---:|
+| Random Forest – 12 régions | 19,1 % | 0,051 |
+| Random Forest – 7 groupes | **24,9 %** | 0,148 |
+| K-Means – 12 régions | 21,4 % | 0,029 |
+| Régression logistique – 7 groupes | 23,9 % | 0,148 |
+| Deep Learning – 12 régions | 9,3 % | 0,077 |
+| Deep Learning – 7 groupes | 19,8 % | **0,182** |
 
 ![Matrice de confusion](images/matrice_confusion.png)
 
@@ -145,32 +161,48 @@ Le fichier final est exporté dans `Dataset/dataset_musique_region.csv`.
 
 ## 6. Difficultés rencontrées
 
-- **Des goûts très homogènes** : la heatmap montre peu de différences entre régions. Le signal à exploiter est faible.
-- **Des classes déséquilibrées** : l'Île-de-France pèse beaucoup plus que les autres régions. L'accuracy seule peut donner une image trop optimiste.
-- **Des variables pauvres** : 13 colonnes binaires (écoute / n'écoute pas), c'est peu d'information pour distinguer 12 régions.
-- **Travail en groupe** : plusieurs versions de notebooks sur des branches différentes, à fusionner proprement avec Git.
+- **Régions déséquilibrées** : certaines régions sont beaucoup plus représentées que d'autres.
+- **Goûts musicaux proches** : les différences entre régions sont faibles.
+- **Informations limitées** : nous utilisons seulement 13 genres musicaux binaires pour prédire la localisation.
+- **Comparaison des modèles** : les résultats à 12 régions et à 7 groupes ne sont pas directement comparables.
+- **Travail en groupe** : il faut maintenir les notebooks et les fichiers à jour sur Git.
 
 ---
 
 ## 7. Conclusion
 
-`Problématique beaucoup trop vaste en vue des données qu'on avait au départ. On a remarqué beaucoup de désiquilibre sur certaine régions comme l'Ile-de-france et l'Auvergne. A COMPLETER !!!!!!!!!!!!!!!`
+Nous avons testé plusieurs modèles pour prédire la région d'une personne grâce à ses goûts musicaux.
 
-Piste de réflexion : si les résultats sont proches du hasard, ce n'est pas un échec du modèle. C'est un résultat en soi. Il montre que, dans ces données, les préférences musicales ne suffisent pas à situer quelqu'un géographiquement.
+Les résultats sont assez faibles. Le Random Forest obtient la meilleure accuracy et le Deep Learning le meilleur F1 macro pour les 7 groupes.
+
+**Les goûts musicaux seuls ne suffisent donc pas pour prédire facilement la région d'une personne.**
 
 **Pistes d'amélioration**
-- ajouter d'autres variables (âge, taille de la ville, fréquence d'écoute)
-- regrouper les régions en grandes zones (Nord / Sud / Est / Ouest / IDF) pour simplifier la cible
-- rééquilibrer les classes (pondération, sous/sur-échantillonnage)
+
+Pour améliorer les résultats, nous pourrions ajouter d'autres informations, comme l'âge ou la fréquence d'écoute, et mieux gérer les différences entre les régions.
 
 ---
 
 ## 8. Lancer le projet
 
+Cloner le dépôt :
+
 ```bash
 git clone https://github.com/felipemarzin-oss/data-science-project.git
 cd data-science-project
-pip install -r requirements.txt
 ```
 
-Puis ouvrir les notebooks dans l'ordre : exploration → nettoyage → transformation → modélisation.
+Créer un environnement Python et installer les dépendances :
+
+```bash
+conda create -n musique python=3.11 -y
+conda activate musique
+python -m pip install -r requirements.txt
+```
+
+Ouvrir les notebooks dans cet ordre :
+
+1. `exploration.ipynb`
+2. `nettoyage.ipynb`
+3. `transformation.ipynb`
+4. `traini
