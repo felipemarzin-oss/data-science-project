@@ -205,4 +205,6 @@ Ouvrir les notebooks dans cet ordre :
 1. `exploration.ipynb`
 2. `nettoyage.ipynb`
 3. `transformation.ipynb`
-4. `traini
+4. `training_eval.ipynb`
+
+
